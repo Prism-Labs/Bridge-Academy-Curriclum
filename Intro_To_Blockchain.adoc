@@ -1,0 +1,518 @@
+
+== Vitalik Buterin's Blog 
+
+Link: https://vitalik.ca/
+
+Blog maintained by Ethereum Cofounder and Ethereum Foundation chief research scientist Vitalik Buterin. His blog details the latests research into Ethereum. It convers the protocols, concensus and gametheory pertinante to the network's planned and recent developments, and Vitalik's other interests.  
+
+What is the planned fault tollerance for Casper FFG?
+
++++ <details><summary> +++
+    Answer
+    +++ </summary><div> +++
+----
+33% fault tolerance or 66% bad actors. 
+----
++++ </div></details> +++
+
+
+What is Vitalik's main critic of voting as a blockchain governance tool?
+
++++ <details><summary> +++
+Context
++++ </summary><div> +++
+----
+ Loosely coupled coin voting is a form of blockchain governance which equates coins with votes. Although, more commonly associated with DPOS systems, Ethereum has a history of voting for blockchain governance e.g. The DAO proposal votes. 
+----
++++ </div></details> +++
+
++++ <details><summary> +++
+Answer
++++ </summary><div> +++
+----
+Poor Voter Participation
+----
++++ </div></details> +++
+
+
+What problem does Ethereum solve with staking by requing people place their Ether at risk?
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+----
+The nothing at stake problem
+----
++++ </div></details> +++
+
+== OpenZeppelin
+
+Link: https://blog.zeppelin.solutions/
+
+OpenZeppelin is a framework / libary for smart contracts proven to be secure when deployed on the Ethereum Virtual Machine. It's an open source project compatible with modern web software, such as node.js. OpenZepplin's popular contracts are used in projects like OmiseGo and StorJ. 
+
+Which keyword is used in Solidity to ensure that a condition is true before execution. 
+
+[small]
+----
+hint: The keyword's arguments are required 
+----
+
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+----
+Require()
+----
++++ </div></details> +++
+    
+
+Where are Ethereum's smart contracts run? 
+ 
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+----
+The Ethereum Virtual Machine
+----
++++ </div></details> +++
+
+== ConsenSys
+
+Link: https://medium.com/@ConsenSys
+
+ConsenSys is a blockchain software technology company founded in 2015 to accelerate blockchain technology and adoption. The fund projects, make talent avaliable and have launched some of the most successful ICOs to date. 
+
+Which Ethereum Cofounder also founded the Blockchain accelerator, incubator and technology company ConcenSys? 
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+----
+Joseph Lubin
+----
++++ </div></details> +++
+
+What is ConsenSys Catalyst? 
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+----
+Catalyst is the full-service marketing and branding agency. Their mission is to catalyze the growth of blockchain companies. 
+----
++++ </div></details> +++
+
+What is ConsenSys Labs? 
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+----
+ ConsenSys Labs incubates the best teams of Web3 across the globe, providing them capital, mentorship, and access to ConsenSys’s network of top-tier projects and talent.
+
+ Noteworthy contributions include:
+
+ .MetaMask
+ .Truffle
+ .BTCRelay
+
+----
++++ </div></details> +++
+
+== BlockChannel
+
+Link: https://medium.com/blockchannel
+
+BlockChannel is a new media & educational hub focused on the socio-cultural/economic issues related to blockchain technologies.The BlockChannel podcast focuses on Bitcoin, Ethereum and Zcash. They are also working on decentralized media platforms and solutions. 
+
+Augur is an betting platform built on Ethereum that allows you to bet on what?
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+----
+future events
+----
++++ </div></details> +++
+
+Which popular cryptocurrency uses zero-knowledge proofs to anonymously send transactions? 
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+----
+Zcash
+
+----
++++ </div></details> +++
+
+Which popular stablecoin uses gametheory, colatoralised debt positions, leveraged trading and token burning to maintain a price of $1 USD
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+----
+MakerDao
+
+----
++++ </div></details> +++
+
+== Epicenter
+
+Link: https://www.youtube.com/user/epicenterbtc 
+
+Epicenter hosts weekly interview with prominate crypto figures. They have one the more extensive guest list in the niche. Interviewing founders, venture capitalists and cryptographers, Epicenter is a great resource for staying on top of what happening. The content is focused more on the everyday user and when the subject matter does get technical it is normally followed by explination.  
+
+Is Karl Floersch an Ethereum Cofounder? 
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+----
+No Karl is just a popular dev.
+
+----
++++ </div></details> +++
+
+
+What is Sweetbridge? 
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+----
+Sweetbridge acts as a sort of OSI model for global business. In the Sweetbridge economy, working capital is freed up by enabling individuals and organizations to borrow from themselves interest-free. Sweetbirdge is used to collateralize assets and borrow money on the blockchain.
+
+----
++++ </div></details> +++
+
+What is Rchain? 
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+----
+A blockchain running a concurrent virtual machine that is sharded at a network level. Powered by the Rho Virtual Machine, and secured by Casper proof-of-stake, Greg Meredith  and the Rchain coop aim to produce a concurrent, compositional, and massively scalable blockchain.
+----
++++ </div></details> +++
+
+== Coindesk 
+
+Link: https://www.coindesk.com/ 
+
+Founded in May 2013, CoinDesk is the leading digital media, events and information services company for the crypto asset and blockchain technology community. Its mandate is to inform, educate and connect the global community as the authoritative daily news provider dedicated to chronicling the space.
+
+Filesharing company Bittorrent has partnered with which major cryptocurrency? 
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+----
+Tron
+----
++++ </div></details> +++
+
+Who are the three stakeholder groups in Bitcoin?
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+----
+The Developers
+The Miners 
+The Coin Holders
+----
++++ </div></details> +++
+
+In theory, which group of stakeholders has the most power in Bitcoin?
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+----
+All stakeholders are equal
+----
++++ </div></details> +++
+
+== ETH Research 
+
+Link: https://ethresear.ch/ 
+
+ETH Research is a semi-public forum for participating in Ethereum’s research efforts. The forum has a technical subject matter and assumed knowledge. It is not a place for general questions or discussion about Ethereum. It focuses on researching protocol improvements, economic systems and solving the scalability problem. 
+
+What is a BLS signature? 
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+---- 
+It stands for Boneh–Lynn–Shacham. BLS signatures are Cryptography that allows a user to verify that a signature (signed with private keys) is legitiamte. BLS signatures use Elliptic curve maths, and share other similarities with schnorr signatures.
+----
++++ </div></details> +++
+
+Does Ethereum Use The GHOST protocol? 
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+---- 
+The GHOST protocol as it was described, originally included uncle blocks to determine the longest chain. The addition of these uncle blocks means that concensus was actually arrived at by evaluating the Greedy Heaviest Observed Subtree, which is what GHOST stands for. Interestingly, Ethereum abandoned GHOST early on. While uncle blocks still get a mining reward, they are not used when determining the longest chain. 
+----
++++ </div></details> +++
+
+What is the name of the Plasma implimentation where deposits on the plasma chain corrispond to a unique coin ID?
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+---- 
+Plasma Cash
+----
++++ </div></details> +++
+
+== Hacking, Distributed 
+
+Link: http://hackingdistributed.com/ 
+
+Hacking Distrubted is a blog by Emin Gün Sirer and his team. This team are behind significant projects and improvements like Bitcoin NG and the Falcon relay network. He is a leader in his field, and authority in blockchain / cryptocurrency. The blog details pitfalls and problems in the space as well as insite into what we can expect moving forward. 
+
+Emin Gün Sirer is working on what consensus protocol with the anonymous Team Rocket? 
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+---- 
+Avalanche
+----
++++ </div></details> +++
+
+What is Falcon? 
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+---- 
+Falcon is a novel, fast relay network for disseminating Bitcoin blocks. It connects miners and full nodes and ferries blocks using a novel technique to reduce orphans. 
+----
++++ </div></details> +++
+
+What underlying blockchain protocol does Waves use in their hybrid POS/POW network? 
+
+Answer 
++++ </summary><div> +++
+---- 
+Bitcoin-NG
+----
++++ </div></details> +++
+
+== Unenumerated
+
+Link: http://unenumerated.blogspot.com/
+
+Nick Szabo's blog is truely a gem. An early proponent of peer to peer cash, Nick Szabo has posts which predate the Bitcoin whitepaper calling for proof of work algorithms on decentralised networks. All of his posts are an interesting read, and to this day provide some of the best descriptions and explinations of the fundamentals behind bitcoin, smart contracts and other key crypto concepts.  
+
+What is the name of an admisitrator who can control or modify anything on the full trust architecture of traditional servers?
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+---- 
+Root
+----
++++ </div></details> +++
+
+A block chain can hold cryptocurrency as collateral (like an escrow) which incentivizes off-chain performance that can be verified on-chain. What is the off-chain actor often called? 
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+---- 
+An Oracle
+----
++++ </div></details> +++
+
+Wet code is a name given to code, logic and procedures interpreted by humans. The law, for example is open to interpretation and therefor wet code. What is immutable code that's interpreted by a computer called?
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+---- 
+Dry Code
+----
++++ </div></details> +++
+
+Nick Szabo is rumoured to be which anonymous cryptocurrency's founder? 
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+---- 
+Satoshi Nakamoto
+----
++++ </div></details> +++
+
+== Chris Burniske 
+
+Link: https://medium.com/@cburniske
+
+Chris Burniske was co-author of the book Cryptoassets. He provided investors a framework to evaluate and understand cryptocurrency at a time where there was very little information on the subject. Now an authority in the space, prolific publisher and blockchain product lead, his works are definitely worth a read. 
+
+ARKInvest was the first public fund to invest in what? 
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+---- 
+Bitcoin
+----
++++ </div></details> +++
+
+Recently Chris Burniske cofounded which venture capital partnership? 
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+---- 
+placeholder
+----
++++ </div></details> +++
+
+What is Chris Burniske's forumula for the valuation of a cryptocurrency?
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+---- 
+"MV = PQ" 
+----
++++ </div></details> +++
+
+
+== Great Wall of Numbers
+
+Link: http://www.ofnumbers.com/
+
+Tim Swanson is the founder and director of research at Post Oak Labs. At the Great Wall of Numbers domain,he has published some of the most insitefull and indepth dives into bitcoin fundamentals. He is a seasoned ecconomist and is currently an advisor at hyperledger. Well worth a read. 
+
+Does more efficient mining equipment reduce the electricity usage of Bitcoin? 
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+---- 
+No, more efficient mining equipment only increases the difficulty of bitcoin mining. 
+----
++++ </div></details> +++
+
+When Bitcoin was first released as software in 2009, miners were collectively rewarded how many tokens every ten minutes? 
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+---- 
+50
+----
++++ </div></details> +++
+
+Who are the 5 people in the world partially funded by the Bitcoin Foundation to work on the Bitcoin protocol?
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+---- 
+Gavin Andresen
+Wladimir van der Laan
+Cory Fields
+Jeff Garzik
+Mike Hearn
+----
++++ </div></details> +++
+
+== BlockChannel 
+
+Link: https://soundcloud.com/blockchannelshow
+
+What's the name of the platform trying to put Geo-Spatial mapping on the Ethereum blockchain? 
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+---- 
+Foam
+----
++++ </div></details> +++
+
+Often refeered to as the bridge to the decentralised web, What browser plugin lets users interact with the Ethereum blockchain without running a fullnode?
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+---- 
+MetaMask
+----
++++ </div></details> +++
+
+Brave, has built in functionality that blocks unwanted content and lets users pay publishers directly with microtransactions. What is Brave?
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+---- 
+A browser
+----
++++ </div></details> +++
+
+== Unchained Podcast 
+
+What's Riccardo Spagni Twitter handle? 
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+---- 
+Fluffy Pony
+----
++++ </div></details> +++
+
+What year was the 10 year anniversary of Bitcoin? 
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+---- 
+2019
+----
++++ </div></details> +++
+
+What cryptocurrency was the first hedge fund to give away all of its data, allow anyone to model that data and submit predictions that they can then trade in their fund? 
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+---- 
+Numerai
+----
++++ </div></details> +++
+
+== Conspiratus Podcast
+
+What is this? 000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f 
+
+hint: The Times 03/Jan/2009 Chancellor on brink of second bailout for banks”.
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+---- 
+a hash of the Genesis Block of the Bitcoin blockchain
+----
++++ </div></details> +++
+
+
+
+== Noded 
+
+
