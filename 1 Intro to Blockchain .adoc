@@ -503,7 +503,7 @@ Both are founders of the Satoshi Nakamoto Institute, software engineers, and gra
 
 
 
-== Books to read (highlight a good quote each)
+== Books to read (highlight a good quote from each)
 https://www.amazon.com/Mastering-Ethereum-Building-Smart-Contracts/dp/1491971940[Mastering Ethereum]
 
 https://www.manning.com/books/building-ethereum-dapps[Building Ethereum Dapps]
