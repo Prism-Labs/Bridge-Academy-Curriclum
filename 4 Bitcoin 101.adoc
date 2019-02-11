@@ -1,9 +1,10 @@
-== Bitcoin 101
-=== Bitcoin Development
+= Bitcoin 101
+
+== Bitcoin Development
+
 Link: https://lopp.net/bitcoin.html
 
-
-=== Stephan Livera Podcast
+== Stephan Livera Podcast
 
 link: https://stephanlivera.com/download-episode/942/46.mp3?ref=download
 
@@ -23,7 +24,7 @@ Can be used securely and interactively. Private keys never need to come in conta
 ----
 +++ </div></details> +++
 
-CRYPTO VOICES
+== CRYPTO VOICES
 
 Link: https://cryptovoices.com/
 
@@ -48,7 +49,7 @@ Government records
 ----
 +++ </div></details> +++
 
-=== TALES FROM THE CRYPT
+== TALES FROM THE CRYPT
 
 Link: https://hwcdn.libsyn.com/p/a/e/7/ae70b5890866dc50/7296115-44100-2-ab35ea8bd7e1b.mp3?c_id=29425319&forcedn=attachment&cs_id=29425319&destination_id=583022&expiration=1548231416&hwt=a934bd90aa3ba71c2737f3417eb7457b
 
@@ -72,7 +73,8 @@ Mining fees
 ----
 +++ </div></details> +++
 
-BITCOIN KNOWLEDGE - A Year Decade of Bitcoin in Review
+== BITCOIN KNOWLEDGE - A Year Decade of Bitcoin in Review
+
 Link: http://www.satoshisdeposition.com/podcast/BTCK-247-2019-01-01.mp3
 
 
@@ -92,7 +94,7 @@ To measure solvency of 3rd parties in cryptocureency
 ----
 +++ </div></details> +++
 
-THE BAD CRYPTO PODCAST
+== THE BAD CRYPTO PODCAST
 
 Link: https://ondemand-us-dal01.cdnstream1.com/d/clips/e6cb0305-7c74-4a39-8d62-a896017e2917/020e8074-c5f9-443d-b254-a8c4003fffbc/0e847fb4-ac17-4071-8efb-a8c4004d7442/audio/direct/t1547783003/Bitcoin_Bull_Run_and_How_to_Use_Exchanges.mp3?t=1547783003&publisher=omny&aw_0_1st.program=The+Bad+Crypto+Podcast&aw_0_1st.organization=Aaron+The+Tech&aw_0_azn.pgenre=%5b%22Business%22%5d&aw_0_azn.pname=The+Bad+Crypto+Podcast&listeningSessionID=5c46a5c7df2bbf33_6072532_22__752d973e1786067349f22a49e9fa565328e49392[
 
@@ -111,7 +113,7 @@ Make use of a hardware wallet
 ----
 +++ </div></details> +++
 
-CITIZEN BITCOIN
+== CITIZEN BITCOIN
 
 Link: https://media.simplecast.com/episodes/audio/247752/Ep21.mp3
 
@@ -147,7 +149,7 @@ BSV- Bitcoin SV
 ----
 +++ </div></details> +++
 
-=== UNHASHED PODCAST
+== UNHASHED PODCAST
 
 Link: http://dcs.megaphone.fm/PKP3311382414.mp3?key=7280f68e510ed76e169b41acfd25b217&listener=85b50628-e1cd-46cd-b5f4-818c01799214
 
@@ -187,7 +189,9 @@ It is a layer 2 payment protocol that operates on top of a blockchain based cryp
  
 ----
 +++ </div></details> +++
-=== NODED
+
+== NODED
+
 https://noded.org/
 
 Noded podcast is cohosted by Micheal Goldstein and Pierre Rochard to provide current events, technical news, the bitcoin community. 
@@ -211,7 +215,7 @@ It only requires a wallet. Hence it can reach the underbanked and unbanked popul
 ----
 +++ </div></details> +++
 
-=== OFF THE CHAINS
+== OFF THE CHAINS
 
 Link: https://hwcdn.libsyn.com/p/8/d/5/8d54dd6be14ccc86/Off_the_Chain_with_Murad.mp3?c_id=24992840&forcedn=attachment&cs_id=24992840&destination_id=770844&expiration=1548232571&hwt=0d29979a6cad1780b214953dcccf1657
 
@@ -234,7 +238,7 @@ Bitcoin was illiquid until recently. It was estimated that 4% people own about 9
 ----
 +++ </div></details> +++
 
-=== WHAT GRINDS MY GEAR
+== WHAT GRINDS MY GEAR
 Link: https://media.simplecast.com/episodes/audio/219275/WGMG-03.mp3
 
 A unique all-female podcast cohosted by Jill Carlson and Meltem Demirors.
@@ -254,7 +258,7 @@ Do not require KYC verification
 ----
 +++ </div></details> +++
 
-=== THE COINPOD PODCAST
+== THE COINPOD PODCAST
 
 Link: http://d1dwvcwq657ipv.cloudfront.net/episodes/original/24627957?episode_id=16811496&response-content-disposition=attachment%3Bfilename%3D%22willy_final_audio.mp3%22&Expires=1548905015&Signature=BsD5BCyqWGEBPo9QwXAIAlTZHYCXwb4RIIjzbq8BChO6rEHoJ8D8uYjO-3Wv7PCtmoKrehCpaeL%7EMTHpDh74WfJRh8N6lmMAXCWZTbXvNNrmvdeG0C4BB-ozZSchQ1DMeCeH6ibEiox4Hmc-qaNX3oSGU8K9zWvguRspdoyWHUo_&Key-Pair-Id=APKAJBD223KRVW6VKWSA
 
@@ -277,7 +281,7 @@ Tokens
 ----
 +++ </div></details> +++
 
-UNCHAINED
+== UNCHAINED
 
 Link: https://unchainedpodcast.com/?spp_download=1e4f25852b587cdb84d6992f9f407de9
 
@@ -297,7 +301,7 @@ Vietnam
 ----
 +++ </div></details> +++
 
-LET’S TALK BITCOIN
+== LET’S TALK BITCOIN
 
 Link: https://hwcdn.libsyn.com/p/b/7/7/b77eece3e6d452e9/LTBE375PRC.mp3?c_id=23318512&cs_id=23318512&expiration=1548223297&hwt=085c538d9256fffbfe047726a35777cb
 
@@ -317,7 +321,7 @@ Theymos
 ----
 +++ </div></details> +++
 
-WHAT BITCOIN DID
+== WHAT BITCOIN DID
 
 Link: http://hwcdn.libsyn.com/p/9/4/a/94afbf845f1d48f5/WBD057.mp3?c_id=29408600&cs_id=29408600&expiration=1548230650&hwt=018170a5f7d3875e86e16f14455b1bcb
 
@@ -341,7 +345,7 @@ Process
 ----
 +++ </div></details> +++
 
-BITCOIN UNIVERSITY
+== BITCOIN UNIVERSITY
 
 Link: http://hwcdn.libsyn.com/p/9/4/a/94afbf845f1d48f5/WBD057.mp3?c_id=29408600&cs_id=29408600&expiration=1548230650&hwt=018170a5f7d3875e86e16f14455b1bcb
 
@@ -369,7 +373,7 @@ P2SH
 ----
 +++ </div></details> +++
 
-=== SOCIAL MEDIA BITCOIN
+== SOCIAL MEDIA BITCOIN
 
 https://mobile.twitter.com/notsofast/lists/crypto-law/info
 https://hive.one
@@ -394,7 +398,7 @@ Because of the relative low cost of international transactions
 
 
 
-=== Introduction to bitcoin
+== Introduction to bitcoin
 
 Link: https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch01.asciidoc
 
@@ -414,7 +418,7 @@ Tradtional currency is centralized, Bitcoin is decentralized
 +++ </div></details> +++
 
 
-=== How Bitcoin Works
+== How Bitcoin Works
 
 Link: https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch02.asciidoc
 
@@ -436,7 +440,7 @@ It produces more BTC into the system at a steady rate until the market cap of 21
 
 
 
-=== Bitcoin Core: The Reference Implementation
+== Bitcoin Core: The Reference Implementation
 
 Link: https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch03.asciidoc
 
@@ -457,7 +461,7 @@ Running a node makes the network more robust and able to serve more wallets, mor
 
 
 
-=== Keys, Addresses
+== Keys, Addresses
 
 Link: https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch04.asciidoc
 
@@ -478,7 +482,7 @@ A private key is picked randomly while a public key is calculated from a private
 
 
 
-=== Wallets
+== Wallets
 
 Link: https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch05.asciidoc
 
@@ -499,7 +503,7 @@ Multicurrency and multiaccount wallets, based on BIP-44
 
 
 
-=== Transactions
+== Transactions
 
 Link: https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch06.asciidoc
 
@@ -520,7 +524,7 @@ the signature proves that the transaction (or specific parts of the transaction)
 
 
 
-=== Advanced Transactions and Scripting
+== Advanced Transactions and Scripting
 
 Link: https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch07.asciidoc
 
@@ -541,7 +545,7 @@ P2SH shifts the transaction fee cost of a long script from the sender to the rec
 
 
 
-=== The Bitcoin Network
+== The Bitcoin Network
 Link: https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch08.asciidoc
 
 Bitcoin is configured as a peer-to-peer (p2p protocol) network on the internet. There are no special nodes in bitcoin, and all nodes share equal responsibility but assume different function. Functions in nodes include a wallet, miner, full blockchain database, and network routing. A Bitcoin Relay Network are overlay networks that provide additional connectivity between nodes with specialized needs. 
@@ -560,7 +564,7 @@ The network nodes interconnect in a mesh network with a ﬂat topology.
 +++ </div></details> +++
 
 
-=== The Blockchain
+== The Blockchain
 
 Link: https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch09.asciidoc
 
@@ -581,7 +585,7 @@ once you are conﬁdent your code works as expected, switch to mainnet to deploy
 
 
 
-=== Mining and Consensus
+== Mining and Consensus
 
 Link: https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch10.asciidoc
 
@@ -602,7 +606,7 @@ Reject if the sum of input values is less than sum of output values.
 
 
 
-=== Bitcoin Security
+== Bitcoin Security
 
 Link: https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch11.asciidoc
 
@@ -623,7 +627,7 @@ Unless you are prepared to invest heavily in operational security, multiple laye
 
 
 
-=== Blockchain Applications
+== Blockchain Applications
 
 Link: https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch12.asciidoc
 

@@ -1,5 +1,6 @@
-== Ethereum 101
-=== Ethereum Development Tutorials
+= Ethereum 101
+
+== Ethereum Development Tutorials
 
 Link: https://github.com/ethereumbook/ethereumbook/blob/develop/01what-is.asciidoc
 
@@ -17,6 +18,8 @@ Ethereum is a platform that demonstrates the fast growth from general purpose bl
 Ethereum can launch programms that will not terminate
 ----
 +++ </div></details> +++
+
+== Ethereum Basics
 
 Link: https://github.com/ethereumbook/ethereumbook/blob/develop/02intro.asciidoc
 
@@ -37,6 +40,8 @@ All answers are correct
 ----
 +++ </div></details> +++
 
+== Ethereum Clients
+
 Link: https://github.com/ethereumbook/ethereumbook/blob/develop/03clients.asciidoc 
 
 In this chapter, we explored Ethereum clients. You downloaded, installed, and synchronized a client, becoming a participant in the Ethereum network, and contributing to the health and stability of the system by replicating the blockchain on your computer.
@@ -55,6 +60,8 @@ Question
 ----
 +++ </div></details> +++
 
+== Cryptography
+
 Link: https://github.com/ethereumbook/ethereumbook/blob/develop/04keys-addresses.asciidoc
 
 In this chapter, we provided a brief survey of public key cryptography and focused on the use of public and private keys in Ethereum and the use of cryptographic tools, such as hash functions, in the creation and verification of Ethereum addresses. We also looked at digital signatures and how they can demonstrate ownership of a private key without revealing that private key.
@@ -71,6 +78,8 @@ In this chapter, we provided a brief survey of public key cryptography and focus
 Elliptic curve cryptography is a type of asymmetric or public key cryptography based on the discrete logarithm problem as expressed by addition and multiplication on the points of an elliptic curve.
 ----
 +++ </div></details> +++
+
+== Wallets
 
 Link: https://github.com/ethereumbook/ethereumbook/blob/develop/05wallets.asciidoc  
 
@@ -91,6 +100,8 @@ All answers are correct
 ----
 +++ </div></details> +++
 
+== Transactions
+
 Link: https://github.com/ethereumbook/ethereumbook/blob/develop/06transactions.asciidoc 
 
 Transactions are the starting point of every activity in the Ethereum system. Transactions are the inputs that cause the Ethereum Virtual Machine to evaluate contracts, update balances, and more generally modify the state of the Ethereum blockchain.
@@ -108,6 +119,8 @@ Transactions are the starting point of every activity in the Ethereum system. Tr
 ----
 +++ </div></details> +++
 
+== Smart Contracts and Solidity
+
 Link: https://github.com/ethereumbook/ethereumbook/blob/develop/07smart-contracts-solidity.asciidoc 
 
 
@@ -123,6 +136,8 @@ In this chapter, we started working with smart contracts in detail and explored 
 Write you own answer
 ----
 +++ </div></details> +++
+
+== Smart Contracts and Vyper
 
 Link: https://github.com/ethereumbook/ethereumbook/blob/develop/08smart-contracts-vyper.asciidoc
 
@@ -141,6 +156,8 @@ Vyper is a compelling and exciting new contract-oriented programming language. I
 ----
 +++ </div></details> +++
 
+== Smart Contract Security 
+
 Link: https://github.com/ethereumbook/ethereumbook/blob/develop/09smart-contracts-security.asciidoc 
 
 There is a lot for any developer working in the smart contract domain to know and understand. By following best practices in your smart contract design and code writing, you will avoid many severe pitfalls and traps.
@@ -158,6 +175,7 @@ Perhaps the most fundamental software security principle is to maximize reuse of
 --------
 +++ </div></details> +++
 
+== Tokens
 Link: https://github.com/ethereumbook/ethereumbook/blob/develop/10tokens.asciidoc 
 
 Tokens are a very powerful concept in Ethereum and can form the basis of many important decentralized applications. In this chapter, we looked at the different types of tokens and token standards, and you built your first token and related application.
@@ -174,7 +192,7 @@ Write you own answer
 ----
 +++ </div></details> +++
 
-
+== Oracles
 Link: https://github.com/ethereumbook/ethereumbook/blob/develop/11oracles.asciidoc
 
 Oracles provide a crucial service to smart contracts: they bring external facts to contract execution. With that, of course, oracles also introduce a significant risk—if they are trusted sources and can be compromised, they can result in compromised execution of the smart contracts they feed.
@@ -192,6 +210,9 @@ All answers are correct
 ----
 +++ </div></details> +++
 
+
+== Decentralized Applications (DApps)
+
 Link: https://github.com/ethereumbook/ethereumbook/blob/develop/12dapps.asciidoc
 
 Decentralized applications are the culmination of the Ethereum vision, as expressed by the founders from the very earliest designs. While many applications call themselves DApps today, most are not fully decentralized. However, it is already possible to construct applications that are almost etirely decentralized.
@@ -208,6 +229,7 @@ The Ethereum Name Service
 ----
 +++ </div></details> +++
 
+== The Ethereum Virtual Machine
 
 Link: https://github.com/ethereumbook/ethereumbook/blob/develop/13evm.asciidoc
 
@@ -228,6 +250,8 @@ BOOlEAN   // Get the block’s boolean
 ----
 +++ </div></details> +++
 
+
+== Consensus
 Link: https://github.com/ethereumbook/ethereumbook/blob/develop/14consensus.asciidoc
 
 Ethereum’s consensus algorithm is still in flux at the time of completion of this book. In a future edition, we will likely add more detail about Casper, and other related technologies as these mature and are deployed on Ethereum. This chapter represents the end of our journey, completing Mastering Ethereum

@@ -1,5 +1,6 @@
-==  Developing dApps with Blockstack
-===  Principles of Blockstack applications
+=  Developing dApps with Blockstack
+
+==  Principles of Blockstack applications
 https://docs.blockstack.org/develop/dapp_principles.html
 
 There are different perspectives on what makes a decentralized app, but Blockstack Dapps only adheres to three. 
@@ -23,7 +24,7 @@ There are different perspectives on what makes a decentralized app, but Blocksta
 ----
 +++ </div></details> +++
 
-=== Developer FAQs
+== Developer FAQs
 
 Link: https://docs.blockstack.org/core/faq_developer.html
 
@@ -44,7 +45,7 @@ Read other users’ public data
 ----
 +++ </div></details> +++
 
-=== Hello Blockstack tutorial
+== Hello Blockstack tutorial
 
 Link: https://docs.blockstack.org/browser/hello-blockstack.html
 
@@ -75,7 +76,7 @@ Displaying statuses in the user profile
 ----
 +++ </div></details> +++
 
-=== To-do list application tutorial
+== To-do list application tutorial
 
 Link: https://docs.blockstack.org/browser/todo-list.html
 
@@ -96,7 +97,7 @@ Dashboard.vue – handles sign out
 ----
 +++ </div></details> +++
 
-=== Blockstack storage tutorial 
+== Blockstack storage tutorial 
 
 Link: https://docs.blockstack.org/browser/blockstack_storage.html
 
@@ -117,7 +118,7 @@ JSON
 ----
 +++ </div></details> +++
 
-=== Add Blockstack auth to a website
+== Add Blockstack auth to a website
 
 Link: https://docs.blockstack.org/develop/auth_provider.html
 
@@ -137,7 +138,7 @@ Users can now edit who has access to their data, know who accessed their data an
 ----
 +++ </div></details> +++
 
-=== About Dapps and app mining
+== About Dapps and app mining
 
 Link: https://docs.blockstack.org/develop/zero_to_dapp_1.html
 
@@ -158,7 +159,7 @@ Invite registration and use by the general public
 ----
 +++ </div></details> +++
 
-=== Learn about the Blockstack platform
+== Learn about the Blockstack platform
 
 Link: https://docs.blockstack.org/develop/zero_to_dapp_2.html
 
@@ -181,7 +182,7 @@ The node package manager package manager
 ----
 +++ </div></details> +++
 
-=== Customize your animal kingdom
+== Customize your animal kingdom
 
 Link: https://docs.blockstack.org/develop/zero_to_dapp_3.html
 
@@ -202,7 +203,7 @@ The public/territories directory which contains images
 ----
 +++ </div></details> +++
 
-=== Android/IOS sdk tutorial
+== Android/IOS sdk tutorial
 Link: https://docs.blockstack.org/android/tutorial.html
 
 https://docs.blockstack.org/ios/tutorial.html

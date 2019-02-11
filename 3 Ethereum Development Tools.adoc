@@ -1,6 +1,6 @@
-==  Ethereum Development Tools
+=  Ethereum Development Tools
 
-
+== Solidity
 
 Link: http://solidity.readthedocs.io/en/latest/
 
@@ -20,6 +20,8 @@ Ethereum Virtual machine
 ----
 +++ </div></details> +++
 
+== Remix
+
 Link: https://remix.ethereum.org/
 
 Remix is a powerful, open source tool that helps you write Solidity contracts straight from the browser. Written in JavaScript, Remix supports both usage in the browser and locally.
@@ -37,6 +39,8 @@ Remix is a powerful, open source tool that helps you write Solidity contracts st
 Provide access to the Ethereum and To publish contracts
 ----
 +++ </div></details> +++
+
+== Rinkeby
 
 Link: https://faucet.rinkeby.io/
 
@@ -57,6 +61,8 @@ To follow special instructions
 ----
 +++ </div></details> +++
 
+== Geth
+
 Link: https://github.com/ethereum/go-ethereum/wiki/geth
 
 Geth is the command line interface for running a full ethereum node implemented in Go. It is the main deliverable of the Frontier Release
@@ -75,6 +81,8 @@ All answers are correct
 ----
 +++ </div></details> +++
 
+== Parity
+
 Link: https://www.parity.io/
 
 Parity develops cutting-edge blockchain technologies to foster innovation such as Parity Ethereum, Parity Bitcoin, Polkadot, and others.
@@ -91,6 +99,8 @@ Parity develops cutting-edge blockchain technologies to foster innovation such a
 write you answer
 ----
 +++ </div></details> +++
+
+== Ganache
 
 Link: https://github.com/trufflesuite/ganache
 
@@ -110,6 +120,8 @@ A personal blockchain for Ethereum development you can use to deploy contracts, 
 ----
 +++ </div></details> +++
 
+== Web3.js
+
 Link: https://github.com/ethereum/web3.js/
 
 Ethereum compatible JavaScript API which implements the Generic JSON RPC spec. It's available on npm as a node module, for Bower and component as embeddable scripts, and as a meteor.js package.
@@ -126,6 +138,8 @@ Ethereum compatible JavaScript API which implements the Generic JSON RPC spec. I
 To realize connection between ethereum and external systems
 ----
 +++ </div></details> +++
+
+== Web3.py
 
 Link: https://github.com/ethereum/web3.py
 
@@ -145,6 +159,8 @@ Each new terminal session requires you to reactivate your virtualenv
 ----
 +++ </div></details> +++
 
+== Truffle Boxex
+
 Link: http://truffleframework.com/boxes/
 
 Truffle Boxes are helpful boilerplates that allow you to focus on what makes your dapp unique. In addition to Truffle, Truffle Boxes can contain other helpful modules, Solidity contracts & libraries, front-end views and more; all the way up to complete example dapps.
@@ -158,6 +174,8 @@ Truffle Boxes are helpful boilerplates that allow you to focus on what makes you
     +++ </summary><div> +++
 ----write you answer----
 +++ </div></details> +++
+
+== Drizzle Box
 
 Link: https://github.com/truffle-box/drizzle-box
 
@@ -177,6 +195,7 @@ truffle unbox drizzle
 ----
 +++ </div></details> +++
 
+== Openzeppelin Solidity
 
 Link: https://github.com/OpenZeppelin/openzeppelin-solidity
 
@@ -194,6 +213,8 @@ OpenZeppelin is a library for secure smart contract development. It provides imp
 npm install openzeppelin-solidity
 ----
 +++ </div></details> +++
+
+== Docs
 
 Link: https://ipfs.io/docs/
 
@@ -214,6 +235,7 @@ Files in IPFS are content-addressed and immutable, they can be complicated to ed
 ----
 +++ </div></details> +++
 
+== Swarm Gateways
 
 Link: http://swarm-gateways.net/
 
@@ -232,6 +254,8 @@ Swarm: Serverless Hosting Incentivised Peer-To-Peer Storage And Content Distribu
  http://localhost:8500 
 ----
 +++ </div></details> +++
+
+== Whisper
 
 Link: https://github.com/ethereum/wiki/wiki/Whisper
 
@@ -252,6 +276,8 @@ All answers are correct
 ----
 +++ </div></details> +++
 
+== Metamask
+
 Link: https://metamask.io/
 
 MetaMask is a bridge that allows you to visit the distributed web of tomorrow in your browser today. It allows you to run Ethereum dApps right in your browser without running a full Ethereum node.
@@ -270,6 +296,7 @@ Mnemonic password
 ----
 +++ </div></details> +++
 
+== Etherscan
 
 Link: https://etherscan.io/
 

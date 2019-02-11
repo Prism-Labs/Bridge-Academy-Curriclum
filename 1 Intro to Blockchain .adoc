@@ -20,7 +20,7 @@ To compensate for increasing hardware speed and varying interest in running node
 ----
 +++ </div></details> +++
 
-=== Bitcoin's Academic Pedigree
+== Bitcoin's Academic Pedigree
 Link: https://queue.acm.org/detail.cfm?id=3136559
 
 Bitcoin is a product of several decades’ worth of research on digital cash and so practitioners should be skeptical of claims of revolutionary technology. Most of the ideas in bitcoin that have generated excitement in the enterprise, such as distributed ledgers and Byzantine agreement, actually date back 20 years or more. Recognize that your problem may not require any breakthroughs—there may be long-forgotten solutions in research papers.
@@ -39,7 +39,7 @@ The ledger should be a global data structure collectively maintained by a mutual
 ----
 +++ </div></details> +++
 
-=== The Idea of Smart Contracts
+== The Idea of Smart Contracts
 
 Link: http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/idea.html
 
@@ -57,7 +57,7 @@ Creditor back door switched on only upon nonpayment for a certain period of time
 ----
 +++ </div></details> +++
 
-=== Beyond the Bitcoin Bubble
+== Beyond the Bitcoin Bubble
 
 Link: https://www.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-bubble.html
 
@@ -75,7 +75,7 @@ It has limited usage by ordinary consumers
 ----
 +++ </div></details> +++
 
-=== The Byzantine Generals Problem 
+== The Byzantine Generals Problem 
 
 Link: https://people.eecs.berkeley.edu/~luca/cs174/byzantine.pdf
 
@@ -93,7 +93,7 @@ With only three generals no solution can work in the presence of a traitor
 ----
 +++ </div></details> +++
 
-=== White Paper - A Next-Generation Smart Contract and Decentralized Application Platform
+== White Paper - A Next-Generation Smart Contract and Decentralized Application Platform
 
 Link: https://github.com/ethereum/wiki/wiki/White-Paper
 
@@ -113,7 +113,7 @@ Building and testing all necessary state transition and networking code
 ----
 +++ </div></details> +++
 
-=== The Agoric Papers
+== The Agoric Papers
 
 Link: https://e-drexler.com/d/09/00/AgoricsPapers/agoricpapers.html
 
@@ -132,7 +132,7 @@ Agoric computation requires market compatible mechanisms for tha allocation of p
 ----
 +++ </div></details> +++
 
-=== Crypto Tokens: A Breakthrough in Open Network Design
+== Crypto Tokens: A Breakthrough in Open Network Design
 
 Link: https://medium.com/@cdixon/crypto-tokens-a-breakthrough-in-open-network-design-e600975be2ef
 
@@ -457,6 +457,9 @@ Foam
 
 
 == Unchained Podcast
+
+Link: https://unchainedpodcast.com/
+
 In this podcast, host Laura Shin, an independent journalist covering all things crypto, talks with industry pioneers about how crypto assets and blockchains will change the way we earn, spend and invest our money. Tune in to find out how Web 3.0, the decentralized web, will revolutionize our world.
 
 === What’s Riccardo Spagni Twitter handle?
@@ -473,9 +476,9 @@ Fluffy Pony
 ----
 +++ </div></details> +++
 
+== Conspiratus Podcast
 
-
-== https://itunes.apple.com/us/podcast/conspiratus/id1335928646?mt=2[Conspiratus Podcast]
+Link: https://itunes.apple.com/us/podcast/conspiratus/id1335928646?mt=2
 
 Conspiratus is Latin for consensus. Through discourse and discussion, we attempt to reach consensus on the state and future of distributed consensus and decentralization technologies.
 
@@ -494,9 +497,9 @@ a hash of the Genesis Block of the Bitcoin blockchain
 ----
 +++ </div></details> +++
 
+== Noded 
 
-
-== https://noded.org[Noded]
+== https://noded.org
 
 Noded Bitcoin Podcast is co-hosted and produced by Michael Goldstein and Pierre Rochard to provide current events, technical news, and commentary to the Bitcoin community.
 

@@ -1,7 +1,7 @@
 ==  Bitcoin Developer Tools
 Link: https://lopp.net/bitcoin.html
 
-Explain Bitcoin-Like I'm Five
+== Explain Bitcoin-Like I'm Five
 
 Link: https://medium.com/@nik5ter/explain-bitcoin-like-im-five-73b4257ac833
 
@@ -21,7 +21,7 @@ The hero of the tale
 ----
 +++ </div></details> +++
 
-Bitcoin Explained
+== Bitcoin Explained
 
 Link: https://www.upfolio.com/ultimate-bitcoin-guide
 
@@ -42,7 +42,7 @@ Bitcoin was designed to solve problems that existed with the traditional banking
 ----
 +++ </div></details> +++
 
-=== The Bitcoin Whitepaper wrote by Satoshi Nakamoto
+== The Bitcoin Whitepaper wrote by Satoshi Nakamoto
 
 Link: https://lopp.net/pdf/bitcoin.pdf
 
@@ -61,7 +61,7 @@ A block header with no transactions would be about 80 bytes.
 ----
 +++ </div></details> +++
 
-=== The Bitcoin Whitepaper with annotations
+== The Bitcoin Whitepaper with annotations
 
 Link: http://fermatslibrary.com/s/bitcoin
 
@@ -81,7 +81,7 @@ Binomial Random Walk
 ----
 +++ </div></details> +++
 
-Beginner's Guide to Bitcoin by CoinDesk
+== Beginner's Guide to Bitcoin by CoinDesk
 
 Link: http://www.coindesk.com/information/
 
@@ -103,7 +103,7 @@ Hailed as one of the most potent solutions to cryptocurrency scaling currently u
 ----
 +++ </div></details> +++
 
-=== Bitcoin is Like…
+== Bitcoin is Like…
 
 Link: http://blog.oleganza.com/post/85111558553/bitcoin-is-like
 
@@ -121,7 +121,7 @@ Like gold, Bitcoin is shiny: it attracts people with its beautiful engineering, 
 ----
 +++ </div></details> +++
 
-=== A Bitcoin Webcomic (with educational notes)
+== A Bitcoin Webcomic (with educational notes)
 
 Link: https://www.rhymeswithfiat.com/
 
@@ -141,7 +141,7 @@ ICO - Initial coin offering
 ----
 +++ </div></details> +++
 
-=== Bitcoin Infographics
+== Bitcoin Infographics
 
 Link: https://www.bitcoindesigned.com/
 
@@ -160,7 +160,7 @@ Light wallets that don't download the full blockchain nor verify all the transac
 ----
 +++ </div></details> +++
 
-=== The Trust Machine: The Story of Bitcoin
+== The Trust Machine: The Story of Bitcoin
 
 Link: https://www.youtube.com/watch?v=ZKwqNgG-Sv4
 
@@ -177,7 +177,7 @@ Satoshi Nakamoto
 ----
 +++ </div></details> +++
 
-=== Reading Bitcoin - translated articles
+== Reading Bitcoin - translated articles
 
 Link: https://readingbitcoin.org/
 
