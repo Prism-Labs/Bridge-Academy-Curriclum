@@ -1,8 +1,9 @@
 ==  Bitcoin Developer Tools
 Link: https://lopp.net/bitcoin.html
 
+Explain Bitcoin-Like I'm Five
 
-https://medium.com/@nik5ter/explain-bitcoin-like-im-five-73b4257ac833[Explain Bitcoin-Like I'm Five]
+Link: https://medium.com/@nik5ter/explain-bitcoin-like-im-five-73b4257ac833
 
 This story about a child who would like to know more how to digitize apple transferring.
 Good analogy with tokenization of economy. Easy to understand blockchain.
@@ -20,7 +21,9 @@ The hero of the tale
 ----
 +++ </div></details> +++
 
-https://www.upfolio.com/ultimate-bitcoin-guide[Bitcoin Explained]
+Bitcoin Explained
+
+Link: https://www.upfolio.com/ultimate-bitcoin-guide
 
 It is an intelligent system that allows strangers to send money directly between each other securely – no trust required! Amazingly, no third party (like a bank) is required, either. 
 
@@ -39,7 +42,9 @@ Bitcoin was designed to solve problems that existed with the traditional banking
 ----
 +++ </div></details> +++
 
-https://lopp.net/pdf/bitcoin.pdf[The Bitcoin Whitepaper wrote by Satoshi Nakamoto]
+=== The Bitcoin Whitepaper wrote by Satoshi Nakamoto
+
+Link: https://lopp.net/pdf/bitcoin.pdf
 
 This white paper describe the innovative technology in mathematical terms with explanation logic of work, privacy, payment verification.  It is an excellent material for understanding the complexity of the solution.
 
@@ -56,7 +61,9 @@ A block header with no transactions would be about 80 bytes.
 ----
 +++ </div></details> +++
 
-http://fermatslibrary.com/s/bitcoin[The Bitcoin Whitepaper with annotations]
+=== The Bitcoin Whitepaper with annotations
+
+Link: http://fermatslibrary.com/s/bitcoin
 
 Questions and comments to the whitepaper of famous cryptocurrency by readers of Ferman’s library. Interesting positions of readers and disputes.
 
@@ -74,7 +81,9 @@ Binomial Random Walk
 ----
 +++ </div></details> +++
 
-http://www.coindesk.com/information/[Beginner's Guide to Bitcoin by CoinDesk]
+Beginner's Guide to Bitcoin by CoinDesk
+
+Link: http://www.coindesk.com/information/
 
 This section help to answer the next questions 
 What is Bitcoin? It's a decentralized digital currency Why Use Bitcoin? It's fast, cheap to use, and secure How Can I Buy Bitcoin? From an exchange or an individual, How to Buy Bitcoin in the UK, Buying bitcoin in the UK,  How to Store Your Bitcoin  Use a digital or paper wallet
@@ -94,7 +103,9 @@ Hailed as one of the most potent solutions to cryptocurrency scaling currently u
 ----
 +++ </div></details> +++
 
-http://blog.oleganza.com/post/85111558553/bitcoin-is-like[Bitcoin is Like…]
+=== Bitcoin is Like…
+
+Link: http://blog.oleganza.com/post/85111558553/bitcoin-is-like
 
 Version and controversion. Comparing and analyze of Bitcoin states and forms. Fantastic idea to tell about a complex subject. 
 
@@ -110,7 +121,9 @@ Like gold, Bitcoin is shiny: it attracts people with its beautiful engineering, 
 ----
 +++ </div></details> +++
 
-https://www.rhymeswithfiat.com/[A Bitcoin Webcomic (with educational notes)]
+=== A Bitcoin Webcomic (with educational notes)
+
+Link: https://www.rhymeswithfiat.com/
 
 Witty comics about talks between heroes of Ethereum and Bitcoin. Short stories with funny culmination. 
 
@@ -128,7 +141,9 @@ ICO - Initial coin offering
 ----
 +++ </div></details> +++
 
-https://www.bitcoindesigned.com/[Bitcoin Infographics]
+=== Bitcoin Infographics
+
+Link: https://www.bitcoindesigned.com/
 
 The Infographics that demonstrate in a natural way different conceptions of Bitcoin. You get the answers is Bitcoin anonymous or about Byzantine general problem. 
 
@@ -145,7 +160,9 @@ Light wallets that don't download the full blockchain nor verify all the transac
 ----
 +++ </div></details> +++
 
-https://www.youtube.com/watch?v=ZKwqNgG-Sv4[The Trust Machine: The Story of Bitcoin]
+=== The Trust Machine: The Story of Bitcoin
+
+Link: https://www.youtube.com/watch?v=ZKwqNgG-Sv4
 
 === Who is the author of whitepaper of Bitcoin
 ==== Satoshi Nakamoto
@@ -160,7 +177,9 @@ Satoshi Nakamoto
 ----
 +++ </div></details> +++
 
-https://readingbitcoin.org/[Reading Bitcoin - translated articles]
+=== Reading Bitcoin - translated articles
+
+Link: https://readingbitcoin.org/
 
 The aggregator of articles from the leading platform like blockstream.com written by different bloggers. Good explanation of material with the visualization of not trivial technologies and processes. 
 

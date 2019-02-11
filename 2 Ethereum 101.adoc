@@ -1,7 +1,7 @@
 == Ethereum 101
 === Ethereum Development Tutorials
 
-Link:https://github.com/ethereumbook/ethereumbook/blob/develop/01what-is.asciidoc
+Link: https://github.com/ethereumbook/ethereumbook/blob/develop/01what-is.asciidoc
 
 Ethereum is a platform that demonstrates the fast growth from general purpose blockchain to the hosting of decentralized applications. Ethereum can compute any algorithm that can be computed by any Turing machine, given the limitations of finite memory.
 
@@ -18,7 +18,7 @@ Ethereum can launch programms that will not terminate
 ----
 +++ </div></details> +++
 
-Link:https://github.com/ethereumbook/ethereumbook/blob/develop/02intro.asciidoc
+Link: https://github.com/ethereumbook/ethereumbook/blob/develop/02intro.asciidoc
 
 In this chapter, you set up a wallet using MetaMask and funded it using a faucet on the Ropsten test network. You received ether into your wallet’s Ethereum address; then you sent ether to the faucet’s Ethereum address.
  Ether is subdivided into smaller units, down to the smallest unit possible, which is named wei. One ether is 1 quintillion wei (1 * 1018 or 1,000,000,000,000,000,000).
@@ -37,7 +37,7 @@ All answers are correct
 ----
 +++ </div></details> +++
 
-Link:https://github.com/ethereumbook/ethereumbook/blob/develop/03clients.asciidoc 
+Link: https://github.com/ethereumbook/ethereumbook/blob/develop/03clients.asciidoc 
 
 In this chapter, we explored Ethereum clients. You downloaded, installed, and synchronized a client, becoming a participant in the Ethereum network, and contributing to the health and stability of the system by replicating the blockchain on your computer.
 Question

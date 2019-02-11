@@ -3,7 +3,9 @@
 Link: https://lopp.net/bitcoin.html
 
 
-https://stephanlivera.com/download-episode/942/46.mp3?ref=download[Stephan Livera Podcast]
+=== Stephan Livera Podcast
+
+link: https://stephanlivera.com/download-episode/942/46.mp3?ref=download
 
 This is a cryptocurrency podcast channel focused on reaching bitcoin software developers, entrepreneurs, business leaders, analysts, economists and more. 
 On episode 46 of the podcast, in an interview with Sjors Provoost from the Netherlands who mentioned he had to learn C++ from the basics as this is the language bitcoin code is written in.
@@ -21,7 +23,9 @@ Can be used securely and interactively. Private keys never need to come in conta
 ----
 +++ </div></details> +++
 
-https://cryptovoices.com/[CRYPTO VOICES]
+CRYPTO VOICES
+
+Link: https://cryptovoices.com/
 
 This is a bitcoin podcast run by Matthew Mezinskis and Fernando Ulrich. On episode 52 of their podcast, they had Ragnar Lifthrasir, a real estate professional, Founder of IBREA (International Blockchain Real Estate Association). He saw an opportunity in contrast between real estate and bitcoin; real estate is fragmented and centralized while bitcoin offers unity and decentralization (3:20-4:49).
 Tokenization has different meanings 
@@ -44,8 +48,9 @@ Government records
 ----
 +++ </div></details> +++
 
+=== TALES FROM THE CRYPT
 
-https://hwcdn.libsyn.com/p/a/e/7/ae70b5890866dc50/7296115-44100-2-ab35ea8bd7e1b.mp3?c_id=29425319&forcedn=attachment&cs_id=29425319&destination_id=583022&expiration=1548231416&hwt=a934bd90aa3ba71c2737f3417eb7457b[TALES FROM THE CRYPT]
+Link: https://hwcdn.libsyn.com/p/a/e/7/ae70b5890866dc50/7296115-44100-2-ab35ea8bd7e1b.mp3?c_id=29425319&forcedn=attachment&cs_id=29425319&destination_id=583022&expiration=1548231416&hwt=a934bd90aa3ba71c2737f3417eb7457b
 
 Tales from the crypt is a podcast hosted by Marty Bent who usually has interesting people on to discuss bitcoin. On this episode, he has Yassine Elmandjra, Crypto analyst at ARK Invest to discuss topics ranging from bitcoin mining, how he started bitcoin and others. 
 Bitcoin is bootstrapped to three main components;
@@ -67,9 +72,9 @@ Mining fees
 ----
 +++ </div></details> +++
 
+BITCOIN KNOWLEDGE - A Year Decade of Bitcoin in Review
+Link: http://www.satoshisdeposition.com/podcast/BTCK-247-2019-01-01.mp3
 
-http://www.satoshisdeposition.com/podcast/BTCK-247-2019-01-01.mp3[BITCOIN KNOWLEDGE -
-A Year Decade of Bitcoin in Review]
 
 Bitcoin Knowledge is a journalism podcast run by Trace Meyer, an entrepreneur, investor, journalist, monetary scientist and ardent defender of the freedom of speech.  
 2018 started with bitcoin at $14k and ended at $3.7k. This represents a 0.66% decline per day decrease in 2018, about $410bn transactions were made during this period. Ventured capitals accounted for $2.33m in 2012, $120m in 2013, $369m in 2014, $601m in 2015, $597m in 2016, $876m in 2017 and $3.128bn in 2018. ICO investments accounted for $30m in 2014, $9m in 2015, $245m in 2016, $5.5bn in 2017 and $16.7bn in 2018. 
@@ -87,8 +92,9 @@ To measure solvency of 3rd parties in cryptocureency
 ----
 +++ </div></details> +++
 
+THE BAD CRYPTO PODCAST
 
-https://ondemand-us-dal01.cdnstream1.com/d/clips/e6cb0305-7c74-4a39-8d62-a896017e2917/020e8074-c5f9-443d-b254-a8c4003fffbc/0e847fb4-ac17-4071-8efb-a8c4004d7442/audio/direct/t1547783003/Bitcoin_Bull_Run_and_How_to_Use_Exchanges.mp3?t=1547783003&publisher=omny&aw_0_1st.program=The+Bad+Crypto+Podcast&aw_0_1st.organization=Aaron+The+Tech&aw_0_azn.pgenre=%5b%22Business%22%5d&aw_0_azn.pname=The+Bad+Crypto+Podcast&listeningSessionID=5c46a5c7df2bbf33_6072532_22__752d973e1786067349f22a49e9fa565328e49392[THE BAD CRYPTO PODCAST]
+Link: https://ondemand-us-dal01.cdnstream1.com/d/clips/e6cb0305-7c74-4a39-8d62-a896017e2917/020e8074-c5f9-443d-b254-a8c4003fffbc/0e847fb4-ac17-4071-8efb-a8c4004d7442/audio/direct/t1547783003/Bitcoin_Bull_Run_and_How_to_Use_Exchanges.mp3?t=1547783003&publisher=omny&aw_0_1st.program=The+Bad+Crypto+Podcast&aw_0_1st.organization=Aaron+The+Tech&aw_0_azn.pgenre=%5b%22Business%22%5d&aw_0_azn.pname=The+Bad+Crypto+Podcast&listeningSessionID=5c46a5c7df2bbf33_6072532_22__752d973e1786067349f22a49e9fa565328e49392[
 
 This is a fun and interactive podcast run by two interesting guys, Joel Comm and Travis Wright.
 Reddit is a good place to gain knowledge about bitcoin and almost all legitimate coins have their own reddit, so you can go there to interact with their users. How to use exchanges was explained (21:31-31:59). While using exchanges, always make sure you have your 2FA feature turned on to doubly safeguard your assets. Your assets should not be kept in exchange wallets to prevent hackers getting to them, but instead, it should be kept in an offline wallet.   
@@ -105,7 +111,9 @@ Make use of a hardware wallet
 ----
 +++ </div></details> +++
 
-https://media.simplecast.com/episodes/audio/247752/Ep21.mp3[CITIZEN BITCOIN]
+CITIZEN BITCOIN
+
+Link: https://media.simplecast.com/episodes/audio/247752/Ep21.mp3
 
 This is a bitcoin blog aimed at educating bitcoin enthusiasts run by Brady Swenson and Cannons Call. 
 Lindy Effect-The future life expectancy of some nonperishable thing like an idea or technology is proportional to their current age so that every additional period of survival implies a longer remaining life expectancy. Bitcoin is the first attempt at a digital currency that was successful (08:52-10:54 and 12:28-14:06)
@@ -139,7 +147,9 @@ BSV- Bitcoin SV
 ----
 +++ </div></details> +++
 
-http://dcs.megaphone.fm/PKP3311382414.mp3?key=7280f68e510ed76e169b41acfd25b217&listener=85b50628-e1cd-46cd-b5f4-818c01799214[UNHASHED PODCAST]
+=== UNHASHED PODCAST
+
+Link: http://dcs.megaphone.fm/PKP3311382414.mp3?key=7280f68e510ed76e169b41acfd25b217&listener=85b50628-e1cd-46cd-b5f4-818c01799214
 
 This is a cryptocurrency podcast channel ran by four guys; Ruben Somsen, Mario Gibney, Bryan Aulds, Colin Aulds.  
 We go through the most important days in the history of BTC
@@ -177,8 +187,8 @@ It is a layer 2 payment protocol that operates on top of a blockchain based cryp
  
 ----
 +++ </div></details> +++
-
-https://noded.org/[NODED]
+=== NODED
+https://noded.org/
 
 Noded podcast is cohosted by Micheal Goldstein and Pierre Rochard to provide current events, technical news, the bitcoin community. 
 In this podcasts are discussing questions about the monetary policy of BTC and why Satoshi put most of the 21 million BTC into the hands of the few early adopters.  
@@ -201,7 +211,9 @@ It only requires a wallet. Hence it can reach the underbanked and unbanked popul
 ----
 +++ </div></details> +++
 
-https://hwcdn.libsyn.com/p/8/d/5/8d54dd6be14ccc86/Off_the_Chain_with_Murad.mp3?c_id=24992840&forcedn=attachment&cs_id=24992840&destination_id=770844&expiration=1548232571&hwt=0d29979a6cad1780b214953dcccf1657[OFF THE CHAINS]
+=== OFF THE CHAINS
+
+Link: https://hwcdn.libsyn.com/p/8/d/5/8d54dd6be14ccc86/Off_the_Chain_with_Murad.mp3?c_id=24992840&forcedn=attachment&cs_id=24992840&destination_id=770844&expiration=1548232571&hwt=0d29979a6cad1780b214953dcccf1657
 
 Core components of BTC
  Blockchain
@@ -222,7 +234,8 @@ Bitcoin was illiquid until recently. It was estimated that 4% people own about 9
 ----
 +++ </div></details> +++
 
-https://media.simplecast.com/episodes/audio/219275/WGMG-03.mp3[WHAT GRINDS MY GEAR]
+=== WHAT GRINDS MY GEAR
+Link: https://media.simplecast.com/episodes/audio/219275/WGMG-03.mp3
 
 A unique all-female podcast cohosted by Jill Carlson and Meltem Demirors.
 Coinbase announced stable coins with back doors to prevent users violating regulations which can lead to asset seizure. Idax also announces they will be blocking New York based IP addresses. Are we still decentralized?
@@ -241,7 +254,9 @@ Do not require KYC verification
 ----
 +++ </div></details> +++
 
-http://d1dwvcwq657ipv.cloudfront.net/episodes/original/24627957?episode_id=16811496&response-content-disposition=attachment%3Bfilename%3D%22willy_final_audio.mp3%22&Expires=1548905015&Signature=BsD5BCyqWGEBPo9QwXAIAlTZHYCXwb4RIIjzbq8BChO6rEHoJ8D8uYjO-3Wv7PCtmoKrehCpaeL%7EMTHpDh74WfJRh8N6lmMAXCWZTbXvNNrmvdeG0C4BB-ozZSchQ1DMeCeH6ibEiox4Hmc-qaNX3oSGU8K9zWvguRspdoyWHUo_&Key-Pair-Id=APKAJBD223KRVW6VKWSA[THE COINPOD PODCAST]
+=== THE COINPOD PODCAST
+
+Link: http://d1dwvcwq657ipv.cloudfront.net/episodes/original/24627957?episode_id=16811496&response-content-disposition=attachment%3Bfilename%3D%22willy_final_audio.mp3%22&Expires=1548905015&Signature=BsD5BCyqWGEBPo9QwXAIAlTZHYCXwb4RIIjzbq8BChO6rEHoJ8D8uYjO-3Wv7PCtmoKrehCpaeL%7EMTHpDh74WfJRh8N6lmMAXCWZTbXvNNrmvdeG0C4BB-ozZSchQ1DMeCeH6ibEiox4Hmc-qaNX3oSGU8K9zWvguRspdoyWHUo_&Key-Pair-Id=APKAJBD223KRVW6VKWSA
 
 A BTC podcast run by Zack Voell. We review episode 42 where he talks to Willy Woo, a technical analyst, engineer and hardcore bitcoineer about the challenges and nuances of on-chain data analytics.
 BTC drives the alt markets. Alt coins magnify BTC price action. They are highly volatile and don’t outperform BTC. icking the right Alt coin in a bull run, you can get a slight leverage over BTC as they have a higher volatility and you go back to BTC in a bear run.
@@ -262,7 +277,9 @@ Tokens
 ----
 +++ </div></details> +++
 
-https://unchainedpodcast.com/?spp_download=1e4f25852b587cdb84d6992f9f407de9[UNCHAINED]
+UNCHAINED
+
+Link: https://unchainedpodcast.com/?spp_download=1e4f25852b587cdb84d6992f9f407de9
 
 Laura Shin is a decorated journalist with a journalism degree from Stanford University and master of arts from Columbia University’s School of Journalism. In  episode 99 of the podcast, Wences Casares, the “so-called” patient zero of bitcoin in the valley is the CEO bitcoin vault and wallet company XAPOS 
 When the government banned money transfer into Argentina in 2011, he was forced to look into other options to circumvent the government restrictions when he discovered Bitcoin. The relatively stable financial situation in the US to explain the necessity of BTC to people there. Converting BTC to local currency in different countries is still subject to the prevalent system there. 
@@ -280,9 +297,9 @@ Vietnam
 ----
 +++ </div></details> +++
 
+LET’S TALK BITCOIN
 
-
-https://hwcdn.libsyn.com/p/b/7/7/b77eece3e6d452e9/LTBE375PRC.mp3?c_id=23318512&cs_id=23318512&expiration=1548223297&hwt=085c538d9256fffbfe047726a35777cb[LET’S TALK BITCOIN]
+Link: https://hwcdn.libsyn.com/p/b/7/7/b77eece3e6d452e9/LTBE375PRC.mp3?c_id=23318512&cs_id=23318512&expiration=1548223297&hwt=085c538d9256fffbfe047726a35777cb
 
 On this episode 375 featuring Adam Levine, Stephanie Murphy, Jonathan Mohan, Joe Looney they talk about the now obsolete bitcoin alert system.
 The Bitcoin Alert system was to communicate emergencies within the network to the participants that were authenticated and propagated from the 3 or 4 people with access to these keys. The problems arose because of the anonymity of some holders of this key. If they got compromised, someone could propagate a malicious message on this network, and it would get treated with importance. 
@@ -300,7 +317,9 @@ Theymos
 ----
 +++ </div></details> +++
 
-http://hwcdn.libsyn.com/p/9/4/a/94afbf845f1d48f5/WBD057.mp3?c_id=29408600&cs_id=29408600&expiration=1548230650&hwt=018170a5f7d3875e86e16f14455b1bcb[WHAT BITCOIN DID]
+WHAT BITCOIN DID
+
+Link: http://hwcdn.libsyn.com/p/9/4/a/94afbf845f1d48f5/WBD057.mp3?c_id=29408600&cs_id=29408600&expiration=1548230650&hwt=018170a5f7d3875e86e16f14455b1bcb
 
 Bitcoin podcast hosted by Peter McCormack with Bryan Bishop on as a guest.
 *BTC is an open source project
@@ -322,8 +341,9 @@ Process
 ----
 +++ </div></details> +++
 
+BITCOIN UNIVERSITY
 
-http://hwcdn.libsyn.com/p/9/4/a/94afbf845f1d48f5/WBD057.mp3?c_id=29408600&cs_id=29408600&expiration=1548230650&hwt=018170a5f7d3875e86e16f14455b1bcb[BITCOIN UNIVERSITY]
+Link: http://hwcdn.libsyn.com/p/9/4/a/94afbf845f1d48f5/WBD057.mp3?c_id=29408600&cs_id=29408600&expiration=1548230650&hwt=018170a5f7d3875e86e16f14455b1bcb
 
 === TRANSACTIONS DECONSTRUCTED WITH JEFF FLOWERS
 
@@ -372,9 +392,11 @@ Because of the relative low cost of international transactions
 ----
 +++ </div></details> +++
 
-https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch01.asciidoc
+
 
 === Introduction to bitcoin
+
+Link: https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch01.asciidoc
 
 Bitcoin, a unit of currency, is the collection of concept and technologies running through a digital money ecosystem in which users are connected through the internet made available by an open source software. Bitcoin was invented in 2008 by Satoshi Nakamoto, and the network started fully in 2009. Though virtual, bitcoin can be used as means of exchange for both high and low-value retail, offshore conduct services and payment means of import and export. A wallet address allows irreversible transactions to be carries out between users and typically starts with a 1 or a 3, there is also an option of scanning a QR code on a smartphone which corresponds to same wallet address of the user.
 
@@ -391,9 +413,11 @@ Tradtional currency is centralized, Bitcoin is decentralized
 ----
 +++ </div></details> +++
 
-https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch02.asciidoc
 
 === How Bitcoin Works
+
+Link: https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch02.asciidoc
+
 
 A blockchain explore is a web app that operates as BTC search engine and allows to search for transactions, addresses and blocks to see relationship and flow between them. Inputs (debits) and outputs (credit) do not add up to same amount with outputs adding up less than inputs because of transaction fees collected by miners. A transaction forms a chain where the inputs from latest transaction correspond to outputs from previous transactions. Mining nodes validate all transactions by reference to bitcoin’s consensus rules. 
 
@@ -410,9 +434,11 @@ It produces more BTC into the system at a steady rate until the market cap of 21
 ----
 +++ </div></details> +++
 
-https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch03.asciidoc
+
 
 === Bitcoin Core: The Reference Implementation
+
+Link: https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch03.asciidoc
 
 Bitcoin is an open source project meaning its simply free to use and also developed by an open community of volunteers. For a developer, there is need to set up a development environment with all the tools, libraries, and support software for writing bitcoin applications in order to access operating system’s command-line interface known as a shell, accessed via a terminal application through which series of commands and scripts can be run. 
 
@@ -429,9 +455,11 @@ Running a node makes the network more robust and able to serve more wallets, mor
 ----
 +++ </div></details> +++
 
-https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch04.asciidoc
+
 
 === Keys, Addresses
+
+Link: https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch04.asciidoc
 
 Ownership of bitcoin is established through digital keys, bitcoin addresses, and digital signatures. The digital keys which can be generated and managed by the user’s wallet software without reference to the blockchain or access to the internet. Public key cryptography is used to create a key pair that controls access to bitcoin. The key pair consists of a private key and— derived from it— a public key that’s distinct. The private key must be backed up to prevent loss as this means funds secured by it are lost forever. 
 
@@ -448,9 +476,11 @@ A private key is picked randomly while a public key is calculated from a private
 ----
 +++ </div></details> +++
 
-https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch05.asciidoc
+
 
 === Wallets
+
+Link: https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch05.asciidoc
 
 The wallet controls access to a user’s money, managing keys and addresses, tracking the balance, and creating and signing transactions. Depending on whether wallets are related to each other there are two primary types of wallets; nondeterministic wallet or JBOK (Just a bunch of keys) where each key is independently generated from a random number and keys are not related to each other and deterministic wallet where all the keys are derived from a single master key, known as the seed.
 
@@ -467,9 +497,11 @@ Multicurrency and multiaccount wallets, based on BIP-44
 ----
 +++ </div></details> +++
 
-https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch06.asciidoc
+
 
 === Transactions
+
+Link: https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch06.asciidoc
 
 Transactions are data structures that encode the transfer of value between participants in the bitcoin system. The fundamental building block of a bitcoin transaction is a transaction output which are indivisible chunks of bitcoin currency, recorded on the blockchain, is recognized as valid by the entire network. The transaction involves pointer to an UTXO (unspent transaction output) by reference to the transaction hash and an output index, which identifies the specific UTXO in the transaction. This is followed by unlocking script, which the wallet constructs in order to satisfy the spending conditions set in the UTXO. Most times, the unlocking script is a digital signature and public key proving ownership of the bitcoin. 
 
@@ -486,9 +518,11 @@ the signature proves that the transaction (or specific parts of the transaction)
 ----
 +++ </div></details> +++
 
-https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch07.asciidoc
 
-==== Advanced Transactions and Scripting
+
+=== Advanced Transactions and Scripting
+
+Link: https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch07.asciidoc
 
 Advanced transaction and scripting involve the use of multisignature scripts and Pay-to-Script-Hash. Multisignature scripts set a condition where some of public keys (N) are recorded in the script and some of the public keys (M) of those must provide signatures to unlock the funds. Pay to script hash simpliﬁes the use of complex transaction scripts With P2SH payments, the complex locking script is replaced with its digital ﬁngerprint, a cryptographic hash. 
 
@@ -505,9 +539,10 @@ P2SH shifts the transaction fee cost of a long script from the sender to the rec
 ----
 +++ </div></details> +++
 
-https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch08.asciidoc
+
 
 === The Bitcoin Network
+Link: https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch08.asciidoc
 
 Bitcoin is configured as a peer-to-peer (p2p protocol) network on the internet. There are no special nodes in bitcoin, and all nodes share equal responsibility but assume different function. Functions in nodes include a wallet, miner, full blockchain database, and network routing. A Bitcoin Relay Network are overlay networks that provide additional connectivity between nodes with specialized needs. 
 
@@ -524,9 +559,10 @@ The network nodes interconnect in a mesh network with a ﬂat topology.
 ----
 +++ </div></details> +++
 
-https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch09.asciidoc
 
 === The Blockchain
+
+Link: https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch09.asciidoc
 
 The blockchain data structure is well arranged and connected list of blocks of transactions. Each block within the blockchain is identiﬁed by a hash. A block is a data structure that arranges transactions for inclusion in the blockchain. The block is made of a header, containing metadata and list of transactions.
 
@@ -543,9 +579,11 @@ once you are conﬁdent your code works as expected, switch to mainnet to deploy
 ----
 +++ </div></details> +++
 
-https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch10.asciidoc
+
 
 === Mining and Consensus
+
+Link: https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch10.asciidoc
 
 Mining is the mechanism that supports the decentralized clearinghouse, by which transactions are validated and cleared. Miners receive two types of rewards in return for the security provided by mining: new coins created with each new block, and transaction fees from all the transactions included in the block. The solution to the problem, called the Proof-of-Work, is included in the new block and acts as proof that the miner expended signiﬁcant computing effort. Every transaction may include a transaction fee, in the form of a surplus of bitcoin between the transaction’s inputs and outputs. The winning bitcoin miner gets to keep the change on the transactions included in the winning block. 
 
@@ -562,9 +600,11 @@ Reject if the sum of input values is less than sum of output values.
 ----
 +++ </div></details> +++
 
-https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch11.asciidoc
+
 
 === Bitcoin Security
+
+Link: https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch11.asciidoc
 
 A decentralized system like bitcoin pushes the responsibility and control to the users. A very effective method for protecting bitcoin is to convert them into physical form. Bitcoin keys are nothing more than long numbers, and they can be stored in a physical form, such as printed on paper or etched on a metal coin. Keeping bitcoin ofﬂine is called cold storage and it is one of the most effective security techniques. Prudent users will keep only a small fraction, perhaps less than 5%, of their bitcoin in an online or mobile wallet as pocket change. The rest should be split between a different storage mechanisms. When storing large amounts of bitcoin, a multisignature bitcoin address should be considered. 
 
@@ -581,9 +621,11 @@ Unless you are prepared to invest heavily in operational security, multiple laye
 ----
 +++ </div></details> +++
 
-https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch12.asciidoc
 
-==== Blockchain Applications
+
+=== Blockchain Applications
+
+Link: https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch12.asciidoc
 
 The bitcoin blockchain can become an application platform offering trust services to applications, such as smart contracts, far surpassing the original purpose of digital currency and payments. Colored coins are used to track digital assets as well as physical assets held by third parties and traded through colored coins certiﬁcates of ownership while the Counterparty protocol, similar to colored coins, offers the ability to create and trade virtual assets and tokens. The Lightning Network is a proposed routed network of bidirectional payment channels connected end-to-end. A network like this can allow any participant to route a payment from channel to chan without trusting any of the intermediaries.
 

@@ -20,7 +20,7 @@ Ethereum Virtual machine
 ----
 +++ </div></details> +++
 
-Link:https://remix.ethereum.org/
+Link: https://remix.ethereum.org/
 
 Remix is a powerful, open source tool that helps you write Solidity contracts straight from the browser. Written in JavaScript, Remix supports both usage in the browser and locally.
 

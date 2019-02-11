@@ -132,7 +132,10 @@ Agoric computation requires market compatible mechanisms for tha allocation of p
 ----
 +++ </div></details> +++
 
-https://medium.com/@cdixon/crypto-tokens-a-breakthrough-in-open-network-design-e600975be2ef
+=== Crypto Tokens: A Breakthrough in Open Network Design
+
+Link: https://medium.com/@cdixon/crypto-tokens-a-breakthrough-in-open-network-design-e600975be2ef
+
 The internet and web were created as open platforms that any user, developer, the organization could access equally. Among other things, this allowed independent developers to build products that quickly gained widespread adoption. Google started in a Menlo Park garage and Facebook started in a Harvard dorm room. They competed on a level playing field because they were built on decentralized networks governed by open protocols
 
 === What were the innovations of bitcoin?
