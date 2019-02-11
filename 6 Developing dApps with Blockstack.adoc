@@ -27,7 +27,7 @@ There are different perspectives on what makes a decentralized app, but Blocksta
 
 Link: https://docs.blockstack.org/core/faq_developer.html
 
-Web developers and non-web developers can build on Blockstack. Blockstack apps are like a web app, but they use Blockstack technology to maintain user’s control over data and identities. Web apps interact with Blockstack using the Blockstack.js library and public RESTful API. Blockstack IDs can be created using Blockstack Browser, and this is done manually for now. Blockstack subdomains can be registered using a Blockstack Subdomain Registrar, and this can be done programmatically. Blockstack does not have the smart contract feature yet.
+Web developers and non-web developers can build on Blockstack. Blockstack apps are like a web app, but they use Blockstack technology to maintain user’s control over data and identities. Web apps interact with Blockstack using the Blockstack.js library and public RESTful API. Blockstack IDs can be created using Blockstack Browser, and this is done manually for now. Blockstack subdomains can be registered using the Blockstack Subdomain Registrar, and this can be done programmatically. Blockstack does not have a smart contract feature yet.
 
 === What does Blockstack.js do?
 
@@ -48,17 +48,18 @@ Read other users’ public data
 
 Link: https://docs.blockstack.org/browser/hello-blockstack.html
 
-In this chapter, you learn to how to generate a simple app on Blockstack. The application is decentralized and serverless. You must have created at least one Blockstack ID to be able to interact with the application. Amont tools that you need for this tutorial are npm, browserify and Blockstack.js. When the app is complete it able to:
+In this chapter, you learn how to generate a simple app on Blockstack. The application is decentralized and serverless. You must have created at least one Blockstack ID to be able to interact with the application. Among tools that you need for this tutorial are npm, browserify and Blockstack.js. When the app is complete it able to:
 
-- Authenticate users using blockstack
+- Authenticate users using Blockstack
 
 - Post new statuses
 
 - Display statuses in the user profile
 
-- Look up status and profile of other users
+- Look up the status and profile of other users
 
-After creating your app, you will create a github repo for your code and send it to the master branch of the remote repo.
+After creating your app, you will create a 
+repo for your code and send it to the master branch of the remote repo.
 
 === When application is completed, what is the application capable of?
 
@@ -82,8 +83,8 @@ In this tutorial, you learn how to build and run a single-page application (SPA)
 
 === What files are responsible for signing in and out?
 
-==== App.vue – handles the authresponse
-==== Landing.vue – generates the authrequest  
+==== App.vue – handles the auth-response
+==== Landing.vue – generates the auth-request  
 ==== Dashboard.vue – handles sign out
 
 
@@ -99,7 +100,7 @@ Dashboard.vue – handles sign out
 
 Link: https://docs.blockstack.org/browser/blockstack_storage.html
 
-In this tutorial, you build a micro-blogging application using multi-player Gaia storage. Gaia is Blockstack's decentralized high performance storage system. Every app that uses Gaia storage must add itself to the user's profile.json file. The Blockstack browser does this automatically when the publish_data scope is requested during authentication. For this application, the user's files stored on Gaia are made visible to others via the app’s property in the user's profile.json file. Once you authenticate a user with store_write and publish_data, you can begin to manage data for your users. Blockstack JS provides two methods getFile() and putFile() for interacting with Gaia storage. The storage methods support all file types.
+In this tutorial, you build a micro-blogging application using multi-player Gaia storage. Gaia is Blockstack's decentralized high- performance storage system. Every app that uses Gaia storage must add itself to the user's profile.json file. The Blockstack browser does this automatically when the publish_data scope is requested during authentication. For this application, the user's files stored on Gaia are made visible to others via the app’s property in the user's profile.json file. Once you authenticate a user with store_write and publish_data, you can begin to manage data for your users. Blockstack JS provides two methods getFile() and putFile() for interacting with Gaia storage. The storage methods support all file types.
 
 === What file formats can you save on Gaia?
 
@@ -140,7 +141,7 @@ Users can now edit who has access to their data, know who accessed their data an
 
 Link: https://docs.blockstack.org/develop/zero_to_dapp_1.html
 
-This chapter teaches how to build and run a Dapp called animal kingdom. It requires you to login with your Blockstack ID and create an animal persona that will rule over a certain territory. The kingdom is a combination of persona and territory. Dapps differ from traditional apps because they transfer data control and identity management to the user. This means that central authorities or middlemen control networks will not be able to access, censor or shutdown the service. The identity created can be used across different platforms. 
+This chapter teaches how to build and run a Dapp called animal kingdom. It requires you to login with your Blockstack ID and creates an animal persona that will rule over a certain territory. The kingdom is a combination of persona and territory. Dapps differ from traditional apps because they transfer data control and identity management to the user. This means that central authorities or middlemen control networks will not be able to access, censor or shutdown the service. The identity created can be used across different platforms. 
 
 === What are the eligibility requirements for App mining?
 
@@ -161,7 +162,7 @@ Invite registration and use by the general public
 
 Link: https://docs.blockstack.org/develop/zero_to_dapp_2.html
 
-The Blockstack platform aims to lower the barriers required for building with blockchain technology. This includes letting developers build applications in any JavaScript framework so they do not have to learn any new languages. You also need to get prerequisites and set up the environment to continue the procedures in this tutorial. Owning a Blockstack ID is important since it will be required to test your animal kingdom. The animal kingdom code can be downloaded from a public repository on github
+The Blockstack platform aims to lower the barriers required for building with blockchain technology. This includes letting developers build applications in any JavaScript framework so they do not have to learn any new languages. You also need to get prerequisites and set up the environment to continue the procedures in this tutorial. Owning a Blockstack ID is important since it will be required to test your animal kingdom. The animal kingdom code can be downloaded from a public repository on GitHub
 
 === What are the prerequisites you need to setup your environment?
 

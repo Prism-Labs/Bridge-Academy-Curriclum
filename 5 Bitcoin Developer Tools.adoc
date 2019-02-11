@@ -2,19 +2,21 @@
 Link: https://lopp.net/bitcoin.html
 
 
-https://medium.com/@nik5ter/explain-bitcoin-like-im-five-73b4257ac833[Explain Bitcoin Like I'm Five]
+https://medium.com/@nik5ter/explain-bitcoin-like-im-five-73b4257ac833[Explain Bitcoin-Like I'm Five]
 
-This is a story about a child who would like to know more how to digitize apple transferring.
+This story about a child who would like to know more how to digitize apple transferring.
 Good analogy with tokenization of economy. Easy to understand blockchain.
 
-==== Who is uncle Tommy?
-===== 
-===== 
+=== Who is uncle Tommy?
+==== Founder of Bitcoin
+==== The hero of the tale
+==== A Friend of Vitalik Buterin
+
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
 ----
-
+The hero of the tale
 ----
 +++ </div></details> +++
 
@@ -22,14 +24,18 @@ https://www.upfolio.com/ultimate-bitcoin-guide[Bitcoin Explained]
 
 It is an intelligent system that allows strangers to send money directly between each other securely – no trust required! Amazingly, no third party (like a bank) is required, either. 
 
-==== What makes Bitcoin so unique?
-===== 
-===== 
+=== What makes Bitcoin so unique?
+==== Bitcoin was designed to solve problems that existed with the traditional healthcare system. But by finding a clever solution to the Double Spend Problem, Satoshi also created a better type of money. In fact, he was able to completely reinvent how money works.
+
+==== Bitcoin was designed to solve problems that existed with the traditional banking system. But by finding a clever solution to the Double Spend Problem, Satoshi also created a better type of money. In fact, he was able to completely reinvent how money works.
+
+==== Bitcoin was designed to solve problems that existed with the traditional transport system. But by finding a clever solution to the Double Spend Problem, Satoshi also created a better type of money. In fact, he was able to completely reinvent how money works.
+
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
 ----
-
+Bitcoin was designed to solve problems that existed with the traditional banking system. But by finding a clever solution to the Double Spend Problem, Satoshi also created a better type of money. In fact, he was able to completely reinvent how money works.
 ----
 +++ </div></details> +++
 
@@ -37,14 +43,16 @@ https://lopp.net/pdf/bitcoin.pdf[The Bitcoin Whitepaper wrote by Satoshi Nakamot
 
 This white paper describe the innovative technology in mathematical terms with explanation logic of work, privacy, payment verification.  It is an excellent material for understanding the complexity of the solution.
 
-==== 
-===== 
-===== 
+=== What is the size of a block header with no transactions?
+==== A block header with no transactions would be about 180 bytes. 
+==== A block header with no transactions would be about 280 bytes. 
+==== A block header with no transactions would be about 80 bytes. 
+
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
 ----
-
+A block header with no transactions would be about 80 bytes. 
 ----
 +++ </div></details> +++
 
@@ -52,15 +60,17 @@ http://fermatslibrary.com/s/bitcoin[The Bitcoin Whitepaper with annotations]
 
 Questions and comments to the whitepaper of famous cryptocurrency by readers of Ferman’s library. Interesting positions of readers and disputes.
 
-=== Escrow with bitcoin? Is this possible?
-==== 
-==== 
+=== How mathematically can be called the race between the honest chain and an attacker chain?
+==== Binomial Random Run
+==== Binomial Determined Walk
+==== Binomial Random Walk
+
 
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
 ----
-
+Binomial Random Walk
 ----
 +++ </div></details> +++
 
@@ -69,14 +79,18 @@ http://www.coindesk.com/information/[Beginner's Guide to Bitcoin by CoinDesk]
 This section help to answer the next questions 
 What is Bitcoin? It's a decentralized digital currency Why Use Bitcoin? It's fast, cheap to use, and secure How Can I Buy Bitcoin? From an exchange or an individual, How to Buy Bitcoin in the UK, Buying bitcoin in the UK,  How to Store Your Bitcoin  Use a digital or paper wallet
 
-=== What Can You Buy with Bitcoin?
-==== 
-==== 
+=== What is the Lightning Network?
+==== Hailed as one of the most potent solutions to cryptocurrency scaling currently under development, the lightning network effectively creates a layer on top of Ethereum, enabling fast and cheap transactions which can net settle to the bitcoin blockchain.
+
+==== Hailed as one of the most potent solutions to cryptocurrency scaling currently under development, the lightning network effectively creates a layer on top of Zcash, enabling fast and cheap transactions which can net settle to the bitcoin blockchain.
+
+==== Hailed as one of the most potent solutions to cryptocurrency scaling currently under development, the lightning network effectively creates a layer on top of bitcoin, enabling fast and cheap transactions which can net settle to the bitcoin blockchain.
+
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
 ----
-
+Hailed as one of the most potent solutions to cryptocurrency scaling currently under development, the lightning network effectively creates a layer on top of bitcoin, enabling fast and cheap transactions which can net settle to the bitcoin blockchain.
 ----
 +++ </div></details> +++
 
@@ -85,28 +99,32 @@ http://blog.oleganza.com/post/85111558553/bitcoin-is-like[Bitcoin is Like…]
 Version and controversion. Comparing and analyze of Bitcoin states and forms. Fantastic idea to tell about a complex subject. 
 
 === Is Bitcoin gold of the new era? 
-==== 
-==== 
+==== Yes
+==== No
+==== Maybe
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
 ----
-
+Like gold, Bitcoin is shiny: it attracts people with its beautiful engineering, built-in contract programming language, wise incentives, and libertarian promise of freedom from coercion.
 ----
 +++ </div></details> +++
 
 https://www.rhymeswithfiat.com/[A Bitcoin Webcomic (with educational notes)]
 
-Witty comics about talks between heroes of Ethereum and Bitcoin.Short stories with funny culmination. 
+Witty comics about talks between heroes of Ethereum and Bitcoin. Short stories with funny culmination. 
 
-=== 
-==== 
-==== 
+=== What is the difference between ICO and YOLO?
+==== NO difference it is the same meaning
+==== Yes, there is a difference in the meaning
+
+
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
 ----
-
+YOLO - you only libe once
+ICO - Initial coin offering 
 ----
 +++ </div></details> +++
 
@@ -114,31 +132,40 @@ https://www.bitcoindesigned.com/[Bitcoin Infographics]
 
 The Infographics that demonstrate in a natural way different conceptions of Bitcoin. You get the answers is Bitcoin anonymous or about Byzantine general problem. 
 
-=== 
-==== 
-==== 
+=== What are light wallets?
+==== Light wallets that don't download the full blockchain nor verify all the transactions.
+==== Light wallets that download the full blockchain nor verify all the transactions.
+==== Light wallets that don't download the full blockchain verify all the transactions.
+
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
 ----
-
+Light wallets that don't download the full blockchain nor verify all the transactions.
 ----
 +++ </div></details> +++
 
 https://www.youtube.com/watch?v=ZKwqNgG-Sv4[The Trust Machine: The Story of Bitcoin]
 
-=== 
-==== 
-==== 
+=== Who is the author of whitepaper of Bitcoin
+==== Satoshi Nakamoto
+==== VItalik Buterin
+==== Bobby Fisher
+
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
 ----
-
+Satoshi Nakamoto
 ----
 +++ </div></details> +++
 
 https://readingbitcoin.org/[Reading Bitcoin - translated articles]
 
-The aggregator of articles from the leading platform like blockstream.com written by different bloggers. Good explanation of material with visualization of not trivial technologies and processes. 
+The aggregator of articles from the leading platform like blockstream.com written by different bloggers. Good explanation of material with the visualization of not trivial technologies and processes. 
+
+=== By which company was presented hte multiparty off-chain contract the channel factories
+==== Burchert et al. 
+==== Archert et al. 
+==== Rchert et al. 
 
