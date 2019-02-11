@@ -1,3 +1,153 @@
+= Foundation (& History)
+
+== Bitcoin
+=== Bitcoin: A Peer-to-Peer Electronic Cash System
+Link: https://bitcoin.org/bitcoin.pdf
+
+
+Bitcoin is a system for electronic transactions without relying on trust, coins made from digital signatures, which provides strong control of ownership, and also prevent double-spending by a peer-to-peer network using proof-of-work to record a public history of transactions that makes it computationally impractical for an attacker to change if honest nodes control a majority of CPU power.
+
+=== What are the features of a proof of work system?
+==== It implements a distributed timestamp server on a peer-to-peer basis
+==== It solves the problem of determining representation in majority decision making
+==== To compensate for increasing hardware speed and varying interest in running nodes over time, the proof-of-work difficulty is determined by a moving average targeting an average number of blocks per hour
+
++++ <details><summary> +++
+    Answer
+    +++ </summary><div> +++
+----
+To compensate for increasing hardware speed and varying interest in running nodes over time, the proof-of-work difficulty is determined by a moving average targeting an average number of blocks per hour
+----
++++ </div></details> +++
+
+=== Bitcoin's Academic Pedigree
+Link: https://queue.acm.org/detail.cfm?id=3136559
+
+Bitcoin is a product of several decades’ worth of research on digital cash and so practitioners should be skeptical of claims of revolutionary technology. Most of the ideas in bitcoin that have generated excitement in the enterprise, such as distributed ledgers and Byzantine agreement, actually date back 20 years or more. Recognize that your problem may not require any breakthroughs—there may be long-forgotten solutions in research papers.
+
+=== What are the necessary prerequisites for building a ledger for internet use?
+==== The ledger should be immutable, append-only meaning you should be able to add new transactions but not remove, modify, or reorder existing ones
+==== There should also be a way to obtain a succinct cryptographic digest of the state of the ledger at any time 
+==== The ledger should be a global data structure collectively maintained by a mutually untrusting set of participants
+
+
++++ <details><summary> +++
+    Answer
+    +++ </summary><div> +++
+----
+The ledger should be a global data structure collectively maintained by a mutually untrusting set of participants
+----
++++ </div></details> +++
+
+=== The Idea of Smart Contracts
+
+Link: http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/idea.html
+
+Smart contracts embed contracts in all sorts of property that is valuable and controlled by digital means, it references the property in a dynamic, often proactively enforced form, and provide much better observation and verification where proactive measures must fall short. Smart contract design has successively refined security protocols which give control of the cryptographic keys for operating the property to the person who rightfully owns that property, based on the terms of the contract. 
+
+=== What are the differences between the crude security system and the rectified security system?
+==== A lock to selectively let in the owner and exclude third parties
+==== A back door to let in the creditor
+==== Creditor back door switched on only upon nonpayment for a certain period
++++ <details><summary> +++
+    Answer
+    +++ </summary><div> +++
+----
+Creditor back door switched on only upon nonpayment for a certain period of time
+----
++++ </div></details> +++
+
+=== Beyond the Bitcoin Bubble
+
+Link: https://www.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-bubble.html
+
+A mysterious new technology emerges that is the result of two decades of intense research and development by nearly anonymous researchers. Digital property transferred includes digital signatures, digital contracts, digital keys, digital ownership of physical assets such as cars, digital stocks, digital money. All these are exchanged through a distributed network of trust that does not require a central intermediary like a bank where only the owner of an asset can send it, only the intended recipient can receive it, the asset can only exist in one place at a time, and everyone can validate transactions and ownership of all assets anytime they want.
+
+=== What are the criticisms leveled at bitcoin?
+==== Merchants will not accept Bitcoin because of its volatility
+==== Bitcoin is a haven for bad behavior, criminals and terrorists to transfer money anonymously with impunity
+==== It has limited usage by ordinary consumers
++++ <details><summary> +++
+    Answer
+    +++ </summary><div> +++
+----
+It has limited usage by ordinary consumers
+----
++++ </div></details> +++
+
+=== The Byzantine Generals Problem 
+
+Link: https://people.eecs.berkeley.edu/~luca/cs174/byzantine.pdf
+
+The Byzantine Generals Problem, under various hypotheses, have been provided solutions and shown how they can be used in implementing reliable computer systems. These solutions are expensive in both the amount of time and the number of messages required. Achieving reliability in the face of arbitrary malfunctioning is difficult and its solution seems to be inherently expensive. The only way to reduce the cost is to make assumptions about the type of failure that may occur.
+
+=== What are the drawbacks of Byzantine General problem?
+==== Oral message is not sufficient to transmit message
+==== No solution will work unless two-third of generals are loyal
+==== With only three generals no solution can work in the presence of a traitor
++++ <details><summary> +++
+    Answer
+    +++ </summary><div> +++
+----
+With only three generals no solution can work in the presence of a traitor
+----
++++ </div></details> +++
+
+=== White Paper - A Next-Generation Smart Contract and Decentralized Application Platform
+
+Link: https://github.com/ethereum/wiki/wiki/White-Paper
+
+The mechanism behind proof of work was a breakthrough in the space because it solved two problems. First, it provided a simple and moderately effective consensus algorithm, allowing nodes in the network to collectively agree on a set of canonical updates to the state of the Bitcoin ledger. Second, it provided a mechanism for allowing free entry into the consensus process, solving the political problem of deciding who gets to influence the consensus, while simultaneously preventing Sybil attacks
+
+=== What are the approaches to building a consensus protocol?
+==== Building an independent network
+==== Building a protocol on top of bitcoin
+==== Building and testing all necessary state transition and networking code
+
++++ <details><summary> +++
+    Answer
+    +++ </summary><div> +++
+---- 
+Building and testing all necessary state transition and networking code
+
+----
++++ </div></details> +++
+
+=== The Agoric Papers
+
+Link: https://e-drexler.com/d/09/00/AgoricsPapers/agoricpapers.html
+
+Agoric computation requires market compatible mechanisms for tha allocation of processor time and storage spaces. Recasting processor scheduling as an auction process yields a flexible priority system. Recasting storage management as a system of decentralized market negotiations yields a distributed garbage collection algorithm able to collect unreferenced loops that cross trust boundaries.
+
+=== Memory systems differ. What features make them different?
+==== Latency
+==== Access cost
+==== Storage cost
+
++++ <details><summary> +++
+    Answer
+    +++ </summary><div> +++
+----
+ Storage cost
+----
++++ </div></details> +++
+
+https://medium.com/@cdixon/crypto-tokens-a-breakthrough-in-open-network-design-e600975be2ef
+The internet and web were created as open platforms that any user, developer, the organization could access equally. Among other things, this allowed independent developers to build products that quickly gained widespread adoption. Google started in a Menlo Park garage and Facebook started in a Harvard dorm room. They competed on a level playing field because they were built on decentralized networks governed by open protocols
+
+=== What were the innovations of bitcoin?
+==== It is a store of value for people
+==== It is a new way to develop an open network
+==== It can reach the underbanked and unbanked populations
+
++++ <details><summary> +++
+    Answer
+    +++ </summary><div> +++
+----
+It only requires a wallet. Hence it can reach the underbanked and unbanked populations
+
+----
++++ </div></details> +++
 
 == Vitalik Buterin's Blog 
 
@@ -349,146 +499,7 @@ Noded Bitcoin Podcast is co-hosted and produced by Michael Goldstein and Pierre 
 
 Both are founders of the Satoshi Nakamoto Institute, software engineers, and graduates of the University of Texas.
 
-== Bitcoin
-=== Bitcoin: A Peer-to-Peer Electronic Cash System
-Link: https://bitcoin.org/bitcoin.pdf
 
-
-Bitcoin is a system for electronic transactions without relying on trust, coins made from digital signatures, which provides strong control of ownership, and also prevent double-spending by a peer-to-peer network using proof-of-work to record a public history of transactions that makes it computationally impractical for an attacker to change if honest nodes control a majority of CPU power.
-
-=== What are the features of a proof of work system?
-==== It implements a distributed timestamp server on a peer-to-peer basis
-==== It solves the problem of determining representation in majority decision making
-==== To compensate for increasing hardware speed and varying interest in running nodes over time, the proof-of-work difficulty is determined by a moving average targeting an average number of blocks per hour
-
-+++ <details><summary> +++
-    Answer
-    +++ </summary><div> +++
-----
-To compensate for increasing hardware speed and varying interest in running nodes over time, the proof-of-work difficulty is determined by a moving average targeting an average number of blocks per hour
-----
-+++ </div></details> +++
-
-https://queue.acm.org/detail.cfm?id=3136559
-
-Bitcoin is a product of several decades’ worth of research on digital cash and so practitioners should be skeptical of claims of revolutionary technology. Most of the ideas in bitcoin that have generated excitement in the enterprise, such as distributed ledgers and Byzantine agreement, actually date back 20 years or more. Recognize that your problem may not require any breakthroughs—there may be long-forgotten solutions in research papers.
-
-=== What are the necessary prerequisites for building a ledger for internet use?
-==== The ledger should be immutable, append-only meaning you should be able to add new transactions but not remove, modify, or reorder existing ones
-==== There should also be a way to obtain a succinct cryptographic digest of the state of the ledger at any time 
-==== The ledger should be a global data structure collectively maintained by a mutually untrusting set of participants
-
-
-+++ <details><summary> +++
-    Answer
-    +++ </summary><div> +++
-----
-The ledger should be a global data structure collectively maintained by a mutually untrusting set of participants
-----
-+++ </div></details> +++
-
-
-http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/idea.html
-
-Smart contracts embed contracts in all sorts of property that is valuable and controlled by digital means, it references the property in a dynamic, often proactively enforced form, and provide much better observation and verification where proactive measures must fall short. Smart contract design has successively refined security protocols which give control of the cryptographic keys for operating the property to the person who rightfully owns that property, based on the terms of the contract. 
-
-=== What are the differences between the crude security system and the rectified security system?
-==== A lock to selectively let in the owner and exclude third parties
-==== A back door to let in the creditor
-==== Creditor back door switched on only upon nonpayment for a certain period
-+++ <details><summary> +++
-    Answer
-    +++ </summary><div> +++
-----
-Creditor back door switched on only upon nonpayment for a certain period of time
-----
-+++ </div></details> +++
-
-
-https://www.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-bubble.html
-
-A mysterious new technology emerges that is the result of two decades of intense research and development by nearly anonymous researchers. Digital property transferred includes digital signatures, digital contracts, digital keys, digital ownership of physical assets such as cars, digital stocks, digital money. All these are exchanged through a distributed network of trust that does not require a central intermediary like a bank where only the owner of an asset can send it, only the intended recipient can receive it, the asset can only exist in one place at a time, and everyone can validate transactions and ownership of all assets anytime they want.
-
-=== What are the criticisms leveled at bitcoin?
-==== Merchants will not accept Bitcoin because of its volatility
-==== Bitcoin is a haven for bad behavior, criminals and terrorists to transfer money anonymously with impunity
-==== It has limited usage by ordinary consumers
-+++ <details><summary> +++
-    Answer
-    +++ </summary><div> +++
-----
-It has limited usage by ordinary consumers
-----
-+++ </div></details> +++
-
-
-https://people.eecs.berkeley.edu/~luca/cs174/byzantine.pdf
-
-The Byzantine Generals Problem, under various hypotheses, have been provided solutions and shown how they can be used in implementing reliable computer systems. These solutions are expensive in both the amount of time and the number of messages required. Achieving reliability in the face of arbitrary malfunctioning is difficult and its solution seems to be inherently expensive. The only way to reduce the cost is to make assumptions about the type of failure that may occur.
-
-=== What are the drawbacks of Byzantine General problem?
-==== Oral message is not sufficient to transmit message
-==== No solution will work unless two-third of generals are loyal
-==== With only three generals no solution can work in the presence of a traitor
-+++ <details><summary> +++
-    Answer
-    +++ </summary><div> +++
-----
-With only three generals no solution can work in the presence of a traitor
-----
-+++ </div></details> +++
-
-https://github.com/ethereum/wiki/wiki/White-Paper
-
-The mechanism behind proof of work was a breakthrough in the space because it solved two problems. First, it provided a simple and moderately effective consensus algorithm, allowing nodes in the network to collectively agree on a set of canonical updates to the state of the Bitcoin ledger. Second, it provided a mechanism for allowing free entry into the consensus process, solving the political problem of deciding who gets to influence the consensus, while simultaneously preventing Sybil attacks
-
-=== What are the approaches to building a consensus protocol?
-==== Building an independent network
-==== Building a protocol on top of bitcoin
-==== Building and testing all necessary state transition and networking code
-
-+++ <details><summary> +++
-    Answer
-    +++ </summary><div> +++
----- 
-Building and testing all necessary state transition and networking code
-
-----
-+++ </div></details> +++
-
-https://e-drexler.com/d/09/00/AgoricsPapers/agoricpapers.html
-
-Agoric computation requires market compatible mechanisms for tha allocation of processor time and storage spaces. Recasting processor scheduling as an auction process yields a flexible priority system. Recasting storage management as a system of decentralized market negotiations yields a distributed garbage collection algorithm able to collect unreferenced loops that cross trust boundaries.
-
-=== Memory systems differ. What features make them different?
-==== Latency
-==== Access cost
-==== Storage cost
-
-+++ <details><summary> +++
-    Answer
-    +++ </summary><div> +++
-----
- Storage cost
-----
-+++ </div></details> +++
-
-https://medium.com/@cdixon/crypto-tokens-a-breakthrough-in-open-network-design-e600975be2ef
-The internet and web were created as open platforms that any user, developer, the organization could access equally. Among other things, this allowed independent developers to build products that quickly gained widespread adoption. Google started in a Menlo Park garage and Facebook started in a Harvard dorm room. They competed on a level playing field because they were built on decentralized networks governed by open protocols
-
-=== What were the innovations of bitcoin?
-==== It is a store of value for people
-==== It is a new way to develop an open network
-==== It can reach the underbanked and unbanked populations
-
-+++ <details><summary> +++
-    Answer
-    +++ </summary><div> +++
-----
-It only requires a wallet. Hence it can reach the underbanked and unbanked populations
-
-----
-+++ </div></details> +++
 
 
 
