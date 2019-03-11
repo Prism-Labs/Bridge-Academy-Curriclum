@@ -44,28 +44,28 @@ Also, **if you always remember that code is written to read (by humans)** and no
   
   - ***Design Patterns*** by the Gang of Four (one of the best books for program architecture)
 
-# Setting up environment ([details](https://github.com/prism-labs/Bridge-Academy-Curriclum/Fullstack/curriculum/tree/master/Setting%20up%20environment#setting-up-environment))
+# Setting up environment ([details](https://github.com/prism-labs/Bridge-Academy-Curriclum/tree/master/Fullstack/Setting%20up%20environment#setting-up-environment))
 
-- #### [Z Shell](https://github.com/prism-labs/Bridge-Academy-Curriclum/Fullstack/curriculum/tree/master/Setting%20up%20environment#z-shell)
-- #### [Editor](https://github.com/prism-labs/Bridge-Academy-Curriclum/Fullstack/curriculum/tree/master/Setting%20up%20environment#editor)
+- #### [Z Shell](https://github.com/prism-labs/Bridge-Academy-Curriclum/tree/master/Fullstack/Setting%20up%20environment#z-shell)
+- #### [Editor](https://github.com/prism-labs/Bridge-Academy-Curriclum/tree/master/Fullstack/Setting%20up%20environment#editor)
 
-  - [VSCode](https://github.com/prism-labs/Bridge-Academy-Curriclum/Fullstack/curriculum/tree/master/Setting%20up%20environment#vscode)
+  - [VSCode](https://github.com/prism-labs/Bridge-Academy-Curriclum/tree/master/Fullstack/Setting%20up%20environment#vscode)
 
-  - [Basic Vim](https://github.com/prism-labs/Bridge-Academy-Curriclum/Fullstack/curriculum/tree/master/Setting%20up%20environment#basic-vim-for-git-rebase-and-in-terminal-editing) (for Git Rebase and in-terminal editing)
-- #### [Terminal and Commands](https://github.com/prism-labs/Bridge-Academy-Curriclum/Fullstack/curriculum/tree/master/Setting%20up%20environment#terminal-and-commands)
+  - [Basic Vim](https://github.com/prism-labs/Bridge-Academy-Curriclum/tree/master/Fullstack/Setting%20up%20environment#basic-vim-for-git-rebase-and-in-terminal-editing) (for Git Rebase and in-terminal editing)
+- #### [Terminal and Commands](https://github.com/prism-labs/Bridge-Academy-Curriclum/tree/master/Fullstack/Setting%20up%20environment#terminal-and-commands)
 
-- #### [Version Managers](https://github.com/prism-labs/Bridge-Academy-Curriclum/Fullstack/curriculum/tree/master/Setting%20up%20environment#version-managers)
+- #### [Version Managers](https://github.com/prism-labs/Bridge-Academy-Curriclum/tree/master/Fullstack/Setting%20up%20environment#version-managers)
 
   - Node Version Manager
 
-- #### [Package Managers](https://github.com/prism-labs/Bridge-Academy-Curriclum/Fullstack/curriculum/tree/master/Setting%20up%20environment#package-managers)
+- #### [Package Managers](https://github.com/prism-labs/Bridge-Academy-Curriclum/tree/master/Fullstack/Setting%20up%20environment#package-managers)
 
   - [yarn](https://yarnpkg.com/lang/en/)
 
   - [npm](https://docs.npmjs.com/getting-started/what-is-npm)(along with [npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b))
 
   - Homebrew (macOS)
-- #### [Environment Variables and uses](https://github.com/prism-labs/Bridge-Academy-Curriclum/Fullstack/curriculum/tree/master/Setting%20up%20environment#environment-variables-and-uses)
+- #### [Environment Variables and uses](https://github.com/prism-labs/Bridge-Academy-Curriclum/tree/master/Fullstack/Setting%20up%20environment#environment-variables-and-uses)
 
 - # Version Control
   - ### [Centralized and Distributed](https://www.atlassian.com/blog/software-teams/version-control-centralized-dvcs)
@@ -329,26 +329,26 @@ Also, **if you always remember that code is written to read (by humans)** and no
 
         - debugger statement
         
-      - #### Functions ([details](https://github.com/prism-labs/Bridge-Academy-Curriclum/Fullstack/curriculum/tree/master/Functions%20in%20JavaScript%20(ES5)#roles-of-functions))
+      - #### Functions ([details](https://github.com/prism-labs/Bridge-Academy-Curriclum/tree/master/Fullstack/Functions%20in%20JavaScript%20(ES5)#roles-of-functions))
 
-        - #### [Roles of functions](https://github.com/prism-labs/Bridge-Academy-Curriclum/Fullstack/curriculum/tree/master/Functions%20in%20JavaScript%20(ES5)#roles-of-functions)
+        - #### [Roles of functions](https://github.com/prism-labs/Bridge-Academy-Curriclum/tree/master/Fullstack/Functions%20in%20JavaScript%20(ES5)#roles-of-functions)
 
-        - #### [Defining Functions](https://github.com/prism-labs/Bridge-Academy-Curriclum/Fullstack/curriculum/tree/master/Functions%20in%20JavaScript%20(ES5)#defining-functions)
+        - #### [Defining Functions](https://github.com/prism-labs/Bridge-Academy-Curriclum/tree/master/Fullstack/Functions%20in%20JavaScript%20(ES5)#defining-functions)
 
-            - [Function Expressions](https://github.com/prism-labs/Bridge-Academy-Curriclum/Fullstack/curriculum/tree/master/Functions%20in%20JavaScript%20(ES5)#function-expressions)
+            - [Function Expressions](https://github.com/prism-labs/Bridge-Academy-Curriclum/tree/master/Fullstack/Functions%20in%20JavaScript%20(ES5)#function-expressions)
 
-            - [Function Declarations](https://github.com/prism-labs/Bridge-Academy-Curriclum/Fullstack/curriculum/tree/master/Functions%20in%20JavaScript%20(ES5)#function-declarations)
+            - [Function Declarations](https://github.com/prism-labs/Bridge-Academy-Curriclum/tree/master/Fullstack/Functions%20in%20JavaScript%20(ES5)#function-declarations)
 
-            - [The Function Constructor](https://github.com/prism-labs/Bridge-Academy-Curriclum/Fullstack/curriculum/tree/master/Functions%20in%20JavaScript%20(ES5)#the-function-constructor)
+            - [The Function Constructor](https://github.com/prism-labs/Bridge-Academy-Curriclum/tree/master/Fullstack/Functions%20in%20JavaScript%20(ES5)#the-function-constructor)
 
-        - #### [Params vs Arguments](https://github.com/prism-labs/Bridge-Academy-Curriclum/Fullstack/curriculum/tree/master/Functions%20in%20JavaScript%20(ES5)#params-vs-arguments)
+        - #### [Params vs Arguments](https://github.com/prism-labs/Bridge-Academy-Curriclum/tree/master/Fullstack/Functions%20in%20JavaScript%20(ES5)#params-vs-arguments)
         - #### [Hoisting](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch4.md)
 
-        - #### [More Control over Function Calls: call(), apply(), and bind()](https://github.com/prism-labs/Bridge-Academy-Curriclum/Fullstack/curriculum/tree/master/Functions%20in%20JavaScript%20(ES5)#more-control-over-function-calls-call-apply-and-bind)
+        - #### [More Control over Function Calls: call(), apply(), and bind()](https://github.com/prism-labs/Bridge-Academy-Curriclum/tree/master/Fullstack/Functions%20in%20JavaScript%20(ES5)#more-control-over-function-calls-call-apply-and-bind)
 
         - #### [Arguments Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments)
 
-        - #### [Closures](https://github.com/prism-labs/Bridge-Academy-Curriclum/Fullstack/curriculum/tree/master/Functions%20in%20JavaScript%20(ES5)#closures)
+        - #### [Closures](https://github.com/prism-labs/Bridge-Academy-Curriclum/tree/master/Fullstack/Functions%20in%20JavaScript%20(ES5)#closures)
 
       - #### global/window object
 
@@ -679,7 +679,7 @@ Also, **if you always remember that code is written to read (by humans)** and no
     - canvas API and SVG
     - Video and audio APIs (`<video>` and `<audio>`)
 
-  - ## React ([details](https://github.com/prism-labs/Bridge-Academy-Curriclum/Fullstack/curriculum/tree/master/React#react))
+  - ## React ([details](https://github.com/prism-labs/Bridge-Academy-Curriclum/tree/master/Fullstack/React#react))
 
   - ## Redux
 
@@ -756,7 +756,7 @@ Also, **if you always remember that code is written to read (by humans)** and no
 
     - [Module Bundling](https://medium.freecodecamp.org/javascript-modules-part-2-module-bundling-5020383cf306)
 
-    - [Webpack](https://github.com/prism-labs/Bridge-Academy-Curriclum/Fullstack/curriculum/tree/master/Webpack#webpack)
+    - [Webpack](https://github.com/prism-labs/Bridge-Academy-Curriclum/tree/master/Fullstack/Webpack#webpack)
 
   - Live Reloads (Hot Reloading and HMR)
     - [BrowserSync](https://browsersync.io/docs) for Responsive Designs
@@ -1018,9 +1018,9 @@ Also, **if you always remember that code is written to read (by humans)** and no
 
       - **[Awesome GraphQL](https://github.com/chentsulin/awesome-graphql)**
 
-- ## [Testing](https://github.com/prism-labs/Bridge-Academy-Curriclum/Fullstack/curriculum/tree/master/Testing#testing)
+- ## [Testing](https://github.com/prism-labs/Bridge-Academy-Curriclum/tree/master/Fullstack/Testing#testing)
   
-  - ### [Test Driven Development (TDD)](https://github.com/prism-labs/Bridge-Academy-Curriclum/Fullstack/curriculum/tree/master/Testing#tdd)
+  - ### [Test Driven Development (TDD)](https://github.com/prism-labs/Bridge-Academy-Curriclum/tree/master/Fullstack/Testing#tdd)
 
   - ### Jest, Enzyme
 
