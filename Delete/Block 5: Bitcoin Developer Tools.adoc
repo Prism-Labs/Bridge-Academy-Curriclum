@@ -1,0 +1,190 @@
+==  Bitcoin Developer Tools
+Link: https://lopp.net/bitcoin.html
+
+== Explain Bitcoin-Like I'm Five
+
+Link: https://medium.com/@nik5ter/explain-bitcoin-like-im-five-73b4257ac833
+
+This story about a child who would like to know more how to digitize apple transferring.
+Good analogy with tokenization of economy. Easy to understand blockchain.
+
+=== Who is uncle Tommy?
+==== Founder of Bitcoin
+==== The hero of the tale
+==== A Friend of Vitalik Buterin
+
++++ <details><summary> +++
+    Answer
+    +++ </summary><div> +++
+----
+The hero of the tale
+----
++++ </div></details> +++
+
+== Bitcoin Explained
+
+Link: https://www.upfolio.com/ultimate-bitcoin-guide
+
+It is an intelligent system that allows strangers to send money directly between each other securely – no trust required! Amazingly, no third party (like a bank) is required, either. 
+
+=== What makes Bitcoin so unique?
+==== Bitcoin was designed to solve problems that existed with the traditional healthcare system. But by finding a clever solution to the Double Spend Problem, Satoshi also created a better type of money. In fact, he was able to completely reinvent how money works.
+
+==== Bitcoin was designed to solve problems that existed with the traditional banking system. But by finding a clever solution to the Double Spend Problem, Satoshi also created a better type of money. In fact, he was able to completely reinvent how money works.
+
+==== Bitcoin was designed to solve problems that existed with the traditional transport system. But by finding a clever solution to the Double Spend Problem, Satoshi also created a better type of money. In fact, he was able to completely reinvent how money works.
+
++++ <details><summary> +++
+    Answer
+    +++ </summary><div> +++
+----
+Bitcoin was designed to solve problems that existed with the traditional banking system. But by finding a clever solution to the Double Spend Problem, Satoshi also created a better type of money. In fact, he was able to completely reinvent how money works.
+----
++++ </div></details> +++
+
+== The Bitcoin Whitepaper wrote by Satoshi Nakamoto
+
+Link: https://lopp.net/pdf/bitcoin.pdf
+
+This white paper describe the innovative technology in mathematical terms with explanation logic of work, privacy, payment verification.  It is an excellent material for understanding the complexity of the solution.
+
+=== What is the size of a block header with no transactions?
+==== A block header with no transactions would be about 180 bytes. 
+==== A block header with no transactions would be about 280 bytes. 
+==== A block header with no transactions would be about 80 bytes. 
+
++++ <details><summary> +++
+    Answer
+    +++ </summary><div> +++
+----
+A block header with no transactions would be about 80 bytes. 
+----
++++ </div></details> +++
+
+== The Bitcoin Whitepaper with annotations
+
+Link: http://fermatslibrary.com/s/bitcoin
+
+Questions and comments to the whitepaper of famous cryptocurrency by readers of Ferman’s library. Interesting positions of readers and disputes.
+
+=== How mathematically can be called the race between the honest chain and an attacker chain?
+==== Binomial Random Run
+==== Binomial Determined Walk
+==== Binomial Random Walk
+
+
++++ <details><summary> +++
+    Answer
+    +++ </summary><div> +++
+----
+Binomial Random Walk
+----
++++ </div></details> +++
+
+== Beginner's Guide to Bitcoin by CoinDesk
+
+Link: http://www.coindesk.com/information/
+
+This section help to answer the next questions 
+What is Bitcoin? It's a decentralized digital currency Why Use Bitcoin? It's fast, cheap to use, and secure How Can I Buy Bitcoin? From an exchange or an individual, How to Buy Bitcoin in the UK, Buying bitcoin in the UK,  How to Store Your Bitcoin  Use a digital or paper wallet
+
+=== What is the Lightning Network?
+==== Hailed as one of the most potent solutions to cryptocurrency scaling currently under development, the lightning network effectively creates a layer on top of Ethereum, enabling fast and cheap transactions which can net settle to the bitcoin blockchain.
+
+==== Hailed as one of the most potent solutions to cryptocurrency scaling currently under development, the lightning network effectively creates a layer on top of Zcash, enabling fast and cheap transactions which can net settle to the bitcoin blockchain.
+
+==== Hailed as one of the most potent solutions to cryptocurrency scaling currently under development, the lightning network effectively creates a layer on top of bitcoin, enabling fast and cheap transactions which can net settle to the bitcoin blockchain.
+
++++ <details><summary> +++
+    Answer
+    +++ </summary><div> +++
+----
+Hailed as one of the most potent solutions to cryptocurrency scaling currently under development, the lightning network effectively creates a layer on top of bitcoin, enabling fast and cheap transactions which can net settle to the bitcoin blockchain.
+----
++++ </div></details> +++
+
+== Bitcoin is Like…
+
+Link: http://blog.oleganza.com/post/85111558553/bitcoin-is-like
+
+Version and controversion. Comparing and analyze of Bitcoin states and forms. Fantastic idea to tell about a complex subject. 
+
+=== Is Bitcoin gold of the new era? 
+==== Yes
+==== No
+==== Maybe
++++ <details><summary> +++
+    Answer
+    +++ </summary><div> +++
+----
+Like gold, Bitcoin is shiny: it attracts people with its beautiful engineering, built-in contract programming language, wise incentives, and libertarian promise of freedom from coercion.
+----
++++ </div></details> +++
+
+== A Bitcoin Webcomic (with educational notes)
+
+Link: https://www.rhymeswithfiat.com/
+
+Witty comics about talks between heroes of Ethereum and Bitcoin. Short stories with funny culmination. 
+
+=== What is the difference between ICO and YOLO?
+==== NO difference it is the same meaning
+==== Yes, there is a difference in the meaning
+
+
++++ <details><summary> +++
+    Answer
+    +++ </summary><div> +++
+----
+YOLO - you only libe once
+ICO - Initial coin offering 
+----
++++ </div></details> +++
+
+== Bitcoin Infographics
+
+Link: https://www.bitcoindesigned.com/
+
+The Infographics that demonstrate in a natural way different conceptions of Bitcoin. You get the answers is Bitcoin anonymous or about Byzantine general problem. 
+
+=== What are light wallets?
+==== Light wallets that don't download the full blockchain nor verify all the transactions.
+==== Light wallets that download the full blockchain nor verify all the transactions.
+==== Light wallets that don't download the full blockchain verify all the transactions.
+
++++ <details><summary> +++
+    Answer
+    +++ </summary><div> +++
+----
+Light wallets that don't download the full blockchain nor verify all the transactions.
+----
++++ </div></details> +++
+
+== The Trust Machine: The Story of Bitcoin
+
+Link: https://www.youtube.com/watch?v=ZKwqNgG-Sv4
+
+=== Who is the author of whitepaper of Bitcoin
+==== Satoshi Nakamoto
+==== VItalik Buterin
+==== Bobby Fisher
+
++++ <details><summary> +++
+    Answer
+    +++ </summary><div> +++
+----
+Satoshi Nakamoto
+----
++++ </div></details> +++
+
+== Reading Bitcoin - translated articles
+
+Link: https://readingbitcoin.org/
+
+The aggregator of articles from the leading platform like blockstream.com written by different bloggers. Good explanation of material with the visualization of not trivial technologies and processes. 
+
+=== By which company was presented hte multiparty off-chain contract the channel factories
+==== Burchert et al. 
+==== Archert et al. 
+==== Rchert et al. 
+
